@@ -1,0 +1,500 @@
+Tegye az alábbi növényeket virágzási idejük kezdete szerint időrendbe!;ibolya;rózsa;orgona;őszi rózsa;ACBD;BIOLÓGIA
+Állítsa növekvő sorrendbe az alábbi mesefigurákhoz tartozó számokat!;Hófehérke;Kismalac;a brémai muzsikusok;Ali baba;BCAD;FILM
+Állítsa keletkezési sorrendbe a következő regényeket! Kezdje a legrégebbivel!;Robinson Crusoe;A fekete gyémántok;Az öreg halász és a tenger;Svejk;ABDC;IRODALOM
+Tegye születésük időrendjébe az alábbi magyar írókat!;Mikszáth Kálmán;Németh László;Jókai Mór;Móricz Zsigmond;CADB;IRODALOM
+Állítsa sorba a rovarok kifejlődésének szakaszait! Kezdje a legkorábbi állapottal!;báb;pete;lárva;imágó;BCAD;BIOLÓGIA
+Tegye az építészeti korszakokat időrendi sorrendbe!;gótika;klasszicizmus;román;barokk;CADB;ÉPÍTÉSZET
+Állítsa sorrendbe területük alapján az alábbi európai országokat! Kezdje a legnagyobbal!;Lengyelország;Luxemburg;Vatikán;Franciaország;DABC;FÖLDRAJZ
+A legtöbb aranyérmet nyerttel kezdve állítsa sorrendbe az alábbi magyar olimpiai bajnokokat!;Egerszegi Krisztina;Kárpáti Rudolf;Darnyi Tamás;Gerevich Aladár;DBAC;SPORT
+Állítsa sorba az alábbi nyelveket elterjedtségük mértéke szerint! Kezdje a legtöbbek által beszélt nyelvvel!;kínai;perzsa;török;arab;ADCB;NYELV
+Állítsa nagyság szerinti sorrendbe a fővárosokat a lakosság száma alapján! Kezdje a legnagyobbal!;Moszkva;Tokió;Mexikóváros;Athén;CBAD;ORSZÁGOK
+Állítsa sorrendbe az emberi fogazat tagjait! Kezdje középről!;zápfog;metszőfog;bölcsességfog;szemfog;BDAC;BIOLÓGIA
+Állítsa időrendi sorrendbe a következő zeneszerzőket! Kezdje a legrégebbivel!;Berlioz;Mozart;Purcell;Prokofjev;CBAD;OPERA
+Tegye az alábbi növényeket virágzási idejük kezdete szerint időrendi sorrendbe!;csokros tulipán;kecses liliom;tarka kikerics;pompás hóvirág;DABC;BIOLÓGIA
+Tegyék a zenés filmeket forgatásuk időpontja szerinti sorrendbe! Kezdjék a legkorábbival!;West Side Story;Kabaré;Ének az esőben;Hair;CABD;FILM
+Állítsa sorrendbe az alábbi állatokat fejlettségük szerint! Kezdje a legfejlettlenebbel!;béka;krokodil;ponty;veréb;CABD;BIOLÓGIA
+Állítsa időrendi sorrendbe az alábbi régi magyar hónapneveket! Kezdje a legkorábbival!;Szent Iván hava;Mindszent hava;Pünkösd hava;Szent György hava;DCAB;ÁLTALÁNOS
+Állítsa nagyság szerinti sorrendbe az alábbi vonós hangszereket! Kezdje a legnagyobbal!;brácsa;nagybőgő;hegedű;gordonka;BDAC;OPERA
+Tegye az alábbi színműveket születésük sorrendjébe! Kezdje a legrégebbivel!;Az ügynök halála;Tartuffe;Macbeth;Antigone;DCBA;IRODALOM
+Állítsa sorrendbe az alábbi növényeket fejlettségük szerint! Kezdje a legfejlettlenebbel!;nyitvatermők;harasztok;gombák;moszatok;DCBA;BIOLÓGIA
+Állítsa sorrendbe az alábbi hangszereket húrjaik száma alapján! Kezdje a legnagyobb húrúval!;klasszikus gitár;citera;hárfa;brácsa;CBAD;OPERA
+Állítsa sorrendbe az alábbi fővárosokat Budapesttől mért távolságuk alapján! Kezdje a legközelebbivel!;Prága;Tokió;London;Róma;ADCB;FÖLDRAJZ
+Állítsa időrendi sorrendbe az alábbi hadvezéreket! Kezdje a legkorábbival!;Kutuzov;Montgomery;Nagy Sándor;Wallenstein;CDAB;TÖRTÉNELEM
+Állítsa sorba Nagy-Britannia miniszterelnökeit beiktatásuk időrendje szerint!;John Major;Winston Churchill;Tony Blair;Margaret Thatcher;BDAC;TÖRTÉNELEM
+Állítsa időrendi sorrendbe a következő olimpiai bajnok magyar úszókat! Kezdje a legkorábbival!;Hajós Alfréd;Darnyi Tamás;Csík Ferenc;Halmay Zoltán;ADCB;SPORT
+Állítsák időrendi sorrendbe a következő olimpiai játékokat!;müncheni olimpia;tokiói olimpia;római olimpia;mexikói olimpia;CBDA;SPORT
+Állítsák magasság szerint sorrendbe a felsorolt magyarországi hegycsúcsokat! Kezdjék a legkisebbel!;Galyatető;Somló;Csóványos;Gellért-hegy;DBCA;FÖLDRAJZ
+Milyen sorrendben követték egymást a felsorolt amerikai elnökök?;Jimmy Carter;Richard Nixon;Gerald Ford;Ronald Reagan;BCAD;TÖRTÉNELEM
+Tegyék az alábbi épületeket felépítésük szerinti sorrendbe, kezdjék a legrégebbivel!;Pantheon;Empire State Building;Notre-Dame;Eiffel-torony;ACDB;ÉPÍTÉSZET
+Tegyék uralkodásuk időrendjébe az alábbi magyar királyokat!;Károly Róbert;Mátyás;IV. Béla;I. László;DCAB;TÖRTÉNELEM
+Állítsák keletkezési sorrendbe az alábbi vallásokat! Kezdjék a legrégebbivel!;buddhizmus;iszlám;katolicizmus;protestantizmus;ACBD;VALLÁS
+Tegyék a találmányokat feltalálásuk időrendje szerinti növekvő sorrendbe!;villámhárító;radar;fonográf;könyvnyomtatás;DACB;TECHNIKA
+Állítsák sorrendbe a felsorolt fákat magasságuk alapján! Kezdjék a legmagasabbal!;platánfa;jegenyefenyő;mamutfenyő;diófa;CBAD;BIOLÓGIA
+Tegyék a zenés filmeket forgatásuk időpontja szerinti sorrendbe! Kezdjék a legkorábbival!;West Side Story;Kabaré;Ének az esőben;Hair;CABD;FILM
+Állítsák sorrendbe az alábbi állatokat lábuk száma szerint! Kezdjék a legkevesebbel!;madárpók;katicabogár;ökörszem;dromedár;CDBA;BIOLÓGIA
+Tegye az alábbi színészeket születésük időrendjébe!;Latabár Kálmán;Koltai Róbert;Charlie Chaplin;Hugh Grant;CABD;FILM
+Tegyék az alábbi növényeket időrendbe virágzási idejük kezdete szerint!;gyöngyvirág;jácint;petúnia;kerti őszirózsa;BACD;BIOLÓGIA
+Állítsák sorrendbe a következő szállítóeszközöket kerekeik száma alapján!;szekér;talicska;riksa;kamion;BCAD;TECHNIKA
+Állítsák sorrendbe az alábbi országokat lakosságuk száma szerint!;Izrael;Mexikó;Belgium;India;ACBD;ORSZÁGOK
+Állítsák időrendi sorrendbe az alábbi Habsburg-házi uralkodókat!;II. József;IV. Károly;I. Ferdinánd;Mária Terézia;CDAB;TÖRTÉNELEM
+Állítsák sorba az ógörög ábécé betűit az elejétől kezdve!;omega;alfa;pszi;gamma;BDCA;NYELV
+Állítsa időrendbe az alábbi festőket! Kezdje a legrégebbivel!;Van Gogh;Picasso;Goya;Giotto;DCAB;KÉPZŐMŰVÉSZET
+Állítsák időrendbe a II. világháború eseményeit!;az atombomba bevetése;Párizs megszállása;Lengyelország lerohanása;a normandiai partraszállás;CBDA;TÖRTÉNELEM
+Állítsák időrendi sorrendbe az alábbi csatákat!;muhi csata;mohácsi csata;rozgonyi csata;pákozdi csata;ACBD;TÖRTÉNELEM
+Tegyék a magyar színésznőket pályakezdésük időrendjébe!;Laborfalvi Róza;Jászai Mari;Gryllus Dorka;Honthy Hanna;ABDC;FILM
+Milyen sorrendben követik egymást az egyes úszásnemek a vegyesúszásban?;hátúszás;mellúszás;pillangóúszás;gyorsúszás;CABD;SPORT
+Tegyék a találmányokat feltalálásuk időrendjébe!;dinamit;mikroprocesszor;plexiüveg;vízvezetékrendszer;DACB;TECHNIKA
+Állítsák sorrendbe a városokat az Egyenlítőtől való távolságuk szerint!;Helsinki;Singapore;Mexikóváros;Prága;BCDA;FÖLDRAJZ
+Tegye a drámaírókat születésük szerint időrendbe!;Moliére;Shakespeare;Csehov;Szophoklész;DBAC;IRODALOM
+Tegye az épületeket építésük kezdete szerint növekvő sorrendbe!;visegrádi királyi palota;jáki templom;fertődi Esterhazy-kastély;szegedi dóm;BACD;ÉPÍTÉSZET
+Állítsák uralkodásuk időrendjébe az alábbi híres uralkodónőket!;Viktória;Mária Terézia;I. Erzsébet;Kleopátra;DCBA;TÖRTÉNELEM
+Tegyék a Duna folyásiránya szerint megfelelő sorrendbe a városokat!;Győr;Mohács;Szentendre;Visegrád;ADCB;FÖLDRAJZ
+Állítsák időrendi sorrendbe az alábbi nyári olimpiai játékokat! Kezdjék a legkorábbival!;Barcelona;Amszterdam;Helsinki;Tokió;BCDA;SPORT
+Állítsák időrendi sorrendbe az alábbi művészeti irányzatokat! Kezdjék a legkorábbival!;szürrealizmus;posztmodern;impresszionizmus;rokokó;DCAB;MŰVÉSZET
+Tegyék értékük növekvő sorrendjébe az alábbi római számokat!;CM;CD;XC;C;CDBA;ÁLTALÁNOS
+Tegyék születésük időrendjébe az alábbi középkori hírességeket!;Nagy Károly;Szent István;Kolumbusz Kristóf;Marco Polo;ABDC;TÖRTÉNELEM
+Tegyék első világbajnoki aranyérmük elnyerésének időrendjébe a Forma-1 pilótáit!;Niki Lauda;Alain Prost;Jackie Stewart;Mika Hakkinen;CABD;SPORT
+Tegyék az Oscar-díjas filmeket díjazásuk időrendjébe! Kezdjék a legrégebbivel!;Esőember;Ben Hur;Forrest Gump;Casablanca;DBAC;FILM
+Tegyék sorrendbe fejtetőtől talpig a ruhadarabokat viselésük helye szerint!;kucsma;rokolya;saru;dolmány;ADBC;ÁLTALÁNOS
+Állítsák a nemzetközi szervezeteket megalakulásuk időrendjébe!;ENSZ;NATO;NOB;EU;CABD;ÁLTALÁNOS
+Állítsák keletkezési sorrendbe az alábbi magyar színpadi műveket! Kezdjék a legrégebbivel!;Bánk bán;Macskajáték;Az ember tragédiája;A néma levente;ACDB;IRODALOM
+Tegyék növekvő sorrendbe a súlymértékeket!;font;tonna;mázsa;gramm;DACB;TUDOMÁNY
+Állítsák emelkedő sorrendbe egy oktávon belül a C-dúr skála hangjait!;e;a;d;h;CABD;OPERA
+Tegyék az ételtípusokat hazai tálalási sorrendjükbe! Kezdjék az elsőként felkínálandóval!;leves;vegyes ízelítő;húsétel;desszert;BACD;KONYHA
+Tegyék az alábbi személyeket születési idejük szerinti növekvő sorrendbe!;Leonardo da Vinci;Alfred Nobel;Arkhimédész;James Watt;CADB;TÖRTÉNELEM
+Tegyék észak-déli sorrendbe a történelmi városokat! Kezdjék a legdélibbel!;Eger;Mohács;Kassa;Nándorfehérvár;DBAC;FÖLDRAJZ
+Állítsák feltalálásuk sorrendjébe az alábbi találmányokat! Kezdjék a legrégebbivel!;telefon;televízió;gőzmozdony;távírókészülék;CDAB;TECHNIKA
+Állítsák sorrendbe a városokat Budapesttől mért távolságuk szerint! Kezdjék a legközelebbivel!;Nyíregyháza;Székesfehérvár;Vác;Szekszárd;CBDA;FÖLDRAJZ
+Tegyék időrendbe a négyütemű belső égésű motor működési ütemét!;sűrítés;szívás;munkaütem;kipufogás;BACD;TECHNIKA
+Állítsák megalakulásuk szerinti időrendbe a magyar könnyűzenei együtteseket! Kezdjék a legkorábbival!;Omega;Ámokfutók;Edda Művek;Pa-Dö-Dö;ACDB;ZENE
+Tegyék a közlekedési eszközöket használatuk kezdetének időrendjébe!;űrrepülőgép;földalatti vasút;léghajó;harci szekér;DCBA;TECHNIKA
+Állítsák a városokat alapításuk időrendjébe!;Szentpétervár;Brasília;Madrid;Róma;DCAB;TÖRTÉNELEM
+Állítsák a madarakat szárnyaik fesztávolságának növekvő sorrendjébe!;szirti sas;ökörszem;vörösbegy;macskabagoly;BCDA;BIOLÓGIA
+Tegyék az alábbi építményeket építésük időrendje szerinti növekvő sorrendbe!;Kheopsz piramis;Hagia Sophia;a londoni Szent Pál-katedrális;Colosseum;ADBC;ÉPÍTÉSZET
+Tegyék a filmvígjátékokat bemutatásuk időrendjébe! Kezdjék a legrégebbivel!;Furcsa pár;Micsoda nő!;Van, aki forrón szereti;Aranyláz;DCAB;FILM
+Tegyék az alábbi táncokat európai elterjedtségük időrendjébe!;bécsikeringő;charleston;break;twist;ABDC;ÁLTALÁNOS
+Állítsák sorba Az ember tragédiája alábbi színeit az előadás időrendjében!;a falanszter;a párizsi szín;az egyiptomi szín;a konstantinápolyi szín;CDBA;IRODALOM
+Állítsák időrendi sorrendbe a következő Árpád-házi királyokat!;III. András;IV. Béla;Szent István;Könyves Kálmán;CDBA;TÖRTÉNELEM
+Állítsák időrendi sorrendbe a felsorolt háborúkat! Kezdjék a legkorábbival!;a százéves háború;a peloponnészoszi háború;a harmincéves háború;az első világháború;BACD;TÖRTÉNELEM
+Állítsák bemutatásuk sorrendjébe az alábbi magyar filmeket! Kezdjék a legkorábbival!;Körhinta;Halálos tavasz;A tizedes meg a többiek;Redl ezredes;BACD;FILM
+Állítsák időrendbe a Biblia eseményeit!;a bűnbeesés;Ádám teremtése;Jerikó elfoglalása;Salamon ítélete;BACD;VALLÁS
+Állítsák irodalmi megjelenítésük időrendi sorrendjébe az alábbi múzsákat!;Szendrey Júlia;Gyarmati Fanni;Vajda Julianna (Lilla);Boncza Berta (Csinszka);CADB;IRODALOM
+Tegyék az építményeket építésük időrendjébe! Kezdjék a legrégebbivel!;Stonehenge;a sydneyi Opera;Tádzs Mahal;Golden Gate híd;ACDB;ÉPÍTÉSZET
+Tegyék a nagylemezeket megjelenésük időrendjébe!;Hotel Menthol;Ezek a fiatalok;Rock and roller;Rapeta;BCAD;ZENE
+Tegyék időrendbe a török ellen vívott háborúk alábbi eseményeit!;a mohácsi csata;a vasvári béke;a nándorfehérvári győzelem;Buda török kézre kerül;CADB;TÖRTÉNELEM
+Állítsák növekvő sorrendbe az alábbi országokat területük nagysága szerint!;Brazília;Franciaország;Vietnam;Monaco;DCBA;FÖLDRAJZ
+Állítsák bemutatásuk időrendjébe az alábbi operákat! Kezdjék a legkorábbival!;A kékszakállú herceg vára;Don Giovanni;Orfeo;Traviata;CBDA;OPERA
+Tegyék beiktatásuk időrendjébe az alábbi magyar miniszterelnököket!;Nagy Imre;Andrássy Gyula;Tildy Zoltán;Károlyi Mihály;BDCA;TÖRTÉNELEM
+Tegyék a találmányokat feltalálásuk időrendjébe! Kezdjék a legrégebbivel!;Otto-motor;dízelmotor;küllős kerék;sugárhajtómű;CABD;TECHNIKA
+Tegyék időrendbe a Petőfi Sándor életével kapcsolatos eseményeket!;nászút Koltón;a segesvári csata;a pesti forradalom;pápai diákidők;DACB;IRODALOM
+Állítsák növekvő sorrendbe a következő római számokat!;D ;V ;X ;L;BCDA;ÁLTALÁNOS
+Tegyék a magyar filmvígjátékokat készítésük időrendjébe! Kezdjék a legrégebbivel!;Mágnás Miska;Meseautó;A tanú;Zimmer Feri;BACD;FILM
+Tegyék időrendbe a XIX. századi magyar történelem jeles eseményeit!;kiegyezés;szabadságharc;Széchenyi halála;Napóleon Győrben;DBCA;TÖRTÉNELEM
+Állítsák olimpiai aranyérmük elnyerésének időrendjébe a felsorolt ökölvívóinkat! Kezdjék a legkorábbival!;Énekes István;Kovács István;Papp László;Gedó György;ACDB;SPORT
+Tegyék a feltalálókat születésük szerint időrendbe!;Rudolf Diesel;Eötvös Loránd;Gutenberg;Gábor Dénes;CBAD;TECHNIKA
+Tegyék beiktatásuk időrendjébe az amerikai elnököket!;T. Jefferson;F. D. Rossevelt;G. Bush;J. F. Kennedy;ABDC;TÖRTÉNELEM
+Tegyék előfordulásuk időrendjébe a Nemzeti dal idézeteit!;Sehonnai bitang...;Talpra magyar...;Unokáink leborulnak...;Rabok voltunk...;BDAC;IRODALOM
+Állítsák a naptól való távolság sorrendjébe az alábbi bolygókat! Kezdjék a legközelebbivel!;Föld;Vénusz;Merkúr;Mars;CBAD;TUDOMÁNY
+Állítsák időrendi sorrendbe az alábbi magyar futball-kapusokat! Kezdjék a legkorábbival!;Géczi István;Király Gábor;Grosics Gyula;Zsák Károly;DCAB;SPORT
+Tegyék a zenés filmeket bemutatásuk időrendjébe!;Szombat esti láz;Egy nehéz nap éjszakája;Óz, a csodák csodája;Flashdance;CBAD;FILM
+Állítsák időrendi sorrendbe az alábbi magyar könnyűzenei slágereket! Kezdjék a legkorábbival!;Trombitás Frédi;Hamvadó cigarettavég;A Sexepilem;Kölyköd voltam;BADC;ZENE
+Állítsák sorrendbe az alábbi katonai rendfokozatokat! Kezdjék a legalacsonyabbal!;hadnagy;ezredes;százados;őrmester;DACB;ÁLTALÁNOS
+Állítsák a magyar megyeszékhelyeket észak-déli sorrendbe!;Kecskemét;Pécs;Veszprém;Győr;DCAB;FÖLDRAJZ
+Tegyék születésük időrendjébe az ókori hírességeket!;Julius Caesar;Nero;Nagy Sándor;Tutankhamon;DCAB;TÖRTÉNELEM
+Állítsák időrendi sorrendbe a következő magyar filmeket! Kezdjék a legkorábbival!;Halálos tavasz;Körhinta;Mephisto;Valahol Európában;ADBC;FILM
+Állítsák időrendi sorrendbe az alábbi aranylabdás futballistákat! Kezdjék a legkorábbival!;Alfredo di Stefano;Michel Platini;Albert Flórián;Zinedine Zidane;ACBD;SPORT
+Állítsák az alábbi szerzőket irodalmi Nobel-díjuk elnyerésének időrendjébe!;Kipling;Grass;Thomas Mann;Márquez;ACDB;IRODALOM
+Állítsák időrendi sorrendbe az alábbi hadvezéreket! Kezdjék a legrégebbivel!;Kutuzov;Miltiadész;Wallenstein;Montgomery;BCAD;TÖRTÉNELEM
+Tegyék keletkezésük sorrendjébe az alábbi dalokat! Kezdjék a legkorábbival!;Kossuth-nóta;Szomorú vasárnap;Marseillaise;Bye-bye Szása!;CABD;ZENE
+Tegyék uralkodásuk időrendjébe az alábbi híres rómaiakat! Kezdjék a legkorábbival!;Julius Caesar;Néro;Augustus;Constantinus;ACBD;TÖRTÉNELEM
+Állítsák időrendbe a felsorolt operákat! Kezdjék a legrégebbivel!;Traviata;Orfeo;A kékszakállú herceg vára;A varázsfuvola;BDAC;OPERA
+Állítsák naptár szerinti időrendi sorrendbe az alábbi keresztény ünnepeket! Kezdjék a legkorábbival!;advent;pünkösd;vízkereszt;húsvét;CDBA;VALLÁS
+Tegyék a magyar filmvígjátékokat első bemutatásuk időrendjébe!;Csinibaba;Liliomfi;Meseautó;6:3;CBAD;FILM
+Tegyék a Tisza-parti városokat a folyásirányuknak megfelelő sorrendbe!;Szolnok;Szeged;Tiszafüred;Tokaj;DCAB;FÖLDRAJZ
+Állítsák érmeik megszerzésének időrendjébe a sydneyi olimpia magyar aranyérmeseit!;Csollány Szilveszter;Nagy Tímea;Kolonics György;Kovács Ágnes;BDAC;SPORT
+Állítsák férjük beiktatásának időrendjébe a híres First Ladyket!;Nancy Reagan;Barbara Bush;Jacqueline Kennedy;Hillary Clinton;CABD;TÖRTÉNELEM
+Tegyék születésük időrendjébe az alábbi magyar festőket!;Csontváry Kosztka Tivadar;Munkácsy Mihály;Csók István;M. S. mester;DBAC;KÉPZŐMŰVÉSZET
+Tegyék növekvő sorrendbe az alábbi űrmértékeket!;hektó;akó;icce;liter;CDBA;TUDOMÁNY
+Állítsák a magyar színésznőket pályakezdésük időrendjébe!;Eszenyi Enikő;Hernádi Judit;Gobbi Hilda;Blaha Lujza;DCBA;SZÍNHÁZ
+Tegyék a szereplőket a Bibliában való megjelenésük időrendjébe! Kezdjék a legkorábbival!;Noé;Jákob;Ádám;Salamon;CABD;VALLÁS
+Állítsák sorrendbe az alábbi országokat területük nagysága alapján! Kezdjék a legnagyobbal!;Oroszország;Finnország;Mongólia;Andorra;ACBD;FÖLDRAJZ
+Tegyék kibocsátásuk időrendjébe a híres történelmi iratokat!;Code Napóleon;Magna Charta;magyar Aranybulla;olmützi alkotmány;BCAD;TÖRTÉNELEM
+Tegyék kitalálásuk időrendjébe az alábbi ismert nyomozókat!;Hercule Poirot;Sherlock Holmes;Derrick;Linda;BACD;ÁLTALÁNOS
+Állítsák sorrendbe az alábbi zenei együtteseket a hangszerek száma szerint! Kezdjék a legkevesebbel!;kvartett;oktett;trió;szextett;CADB;OPERA
+Tegyék születésük időrendjébe az alábbi ismert vallásalapítókat!;Mohamed;Kálvin;Krisztus;Buddha;DCAB;VALLÁS
+Tegyék a személyeket az ellenük elkövetett tragikus merényletek időrendjébe!;J. F. Kennedy;Aldo Moro;Olof Palme;John Lennon;ABDC;TÖRTÉNELEM
+Tegyék a magyar színészeket születésük időrendjébe!;Jávor Pál;Kern András;Bessenyei Ferenc;Szerednyei Béla;ACBD;SZÍNHÁZ
+Állítsák magasság szerinti sorrendbe a következő hegycsúcsokat! Kezdjék a legmagasabbal!;Fuji;Mont Blanc;Mount Everest;Kibo;CDBA;FÖLDRAJZ
+Állítsák virágzásuk kezdetének időrendi sorrendjébe az alábbi virágokat! Kezdjék a legkorábbival!;hóvirág;krizantém;orgona;jácint;ADCB;BIOLÓGIA
+Tegyék az Oscar-díjjal jutalmazott filmeket sorrendbe a legrégebbitől a legújabbig!;Titanic;Schindler listája;Elfújta a szél;A keresztapa;CDBA;FILM
+Tegyék az űrhajósokat első fellövésük időrendjébe!;Jurij Gagarin;Farkas Bertalan;John Glenn;Valentyina Tyereskova;ACDB;TUDOMÁNY
+Állítsák időrendi sorrrendbe az alábbi német kancellárokat! Kezdjék a legkorábbival!;Willy Brandt;Helmuth Kohl;Otto von Bismarck;Konrad Adenauer;CDAB;TÖRTÉNELEM
+Állítsák névérték szerint növekvő sorrendbe a papírpénzeinken látható magyar államférfiakat!;Mátyás király;II. Rákóczi Ferenc;Szent István;Széchenyi István;BADC;ÁLTALÁNOS
+Állítsák sorba a műveket aszerint, hogy mely korban játszódnak! Kezdjék a legkorábbival!;Búcsú a fegyverektől;Nero, a véres költő;Oedipus Kolónoszban;A Tenkes kapitánya;CBDA;IRODALOM
+Állítsák a törzsfejlődés sorrendjébe a következő állatokat! Kezdjék a legfejlettlenebbel!;éti csiga;katicabogár;amőba;medúza;CDAB;BIOLÓGIA
+Tegyék a magyar filmeket bemutatásuk időrendjébe! Kezdjék a legrégebbivel!;Egri csillagok;Európa expressz;Valahol Európában;Mephisto;CADB;FILM
+Állítsák a rendszerváltás utáni miniszterségük időrendjébe hazánk pénzügyminisztereit!;Bokros Lajos;Békesi László;Kupa Mihály;Járai Zsigmond;CBAD;TÖRTÉNELEM
+Állítsák időrendi sorrendbe a felsorolt zenés színpadi műveket! Kezdjék a legkorábbival!;Macskák;Csárdáskirálynő;Hair;Koldusopera;BDCA;SZÍNHÁZ
+Tegyék sorrendbe balról jobbra a bal-kormányos gépkocsi alkatrészeit!;gázpedál;fékpedál;tengelykapcsoló;sebességváltó-kar;CBAD;TECHNIKA
+Tegyék születésük időrendjébe a híres hadvezéreket!;Bem József;Tomori Pál;Vak Bottyán;Kinizsi Pál;DBCA;TÖRTÉNELEM
+Állítsák a görög ábécé sorrendjébe az alábbi betűket!;lambda;gamma;alfa;üpszilon;CBAD;NYELV
+Tegyék születésük sorrendjébe a felsorolt magyar zeneszerzőket! Kezdjék a legkorábbival!;Bakfark Bálint;Kodály Zoltán;Petrovics Emil;Rózsavölgyi Márk;ADBC;OPERA
+Tegyék a híres irodalmi állatokat kitalálásuk időrendjébe!;Vuk;Balu;Lassie;Rocinante;DBCA;IRODALOM
+Tegyék keletkezésük időrendjébe a híres szobrokat!;willendorfi Vénusz;Henry Moore Fekvő alakja;Michelangelo Dávidja;milói Vénusz;ADCB;KÉPZŐMŰVÉSZET
+Állítsák időrendbe a labdarúgó világbajnokságok helyszíneit!;Spanyolország;NSZK;USA;Svájc;DBAC;SPORT
+Állítsák sorrendbe talptól fejtetőig a ruhadarabokat viselésük helye szerint!;bricsesz;párta;mente;klumpa;DACB;ÁLTALÁNOS
+Tegyék időrendbe a Kossuth Lajos életével kapcsolatos eseményeket!;válasz a Húsvéti cikkre;a Pesti Hírlap megjelenése;kormányzósága;amerikai kőrútja;BCDA;TÖRTÉNELEM
+Állítsa a fegyvereket feltalálásuk sorrendjébe!;kopja;colt;szakóca;csillagbuzogány;CDAB;TECHNIKA
+Tegyék a komikusokat születésük időrendjébe!;Louis de Funes;Buster Keaton;Jim Carrey;Robin Williams;BADC;FILM
+Állítsák nagyság szerinti sorrende az alábbi hosszmértékegységeket! Kezdjék a legnagyobbal!;rőf;hüvelyk;mérföld;láb;CADB;TUDOMÁNY
+Állítsák időrendi sorrendbe az alábbi magyar költők versesköteteit! Kezdjék a legkorábbival!;Tajtékos ég;Vér és arany;Nagyon fáj;Őszikék;DBCA;IRODALOM
+Tegyék a híres felfedezőket születésük időrendjébe!;Kolumbusz;Amundsen;James Cook;Vörös Erik;DACB;TÖRTÉNELEM
+Állítsák sorrendbe fejtetőtől talpig az emberi csontokat!;sarokcsont;térdkalács;csípőcsont;kulcscsont;DCBA;BIOLÓGIA
+Állítsák cselekményük történelmi időrendjébe az alábbi magyar filmeket!;Rákóczi hadnagya;A törökfejes kopja;Déryné;Redl ezredes;BACD;FILM
+Tegyék időrendbe az orvostudomány nevezetes felfedezéseit, eseményeit!;első szívátültetés;penicillin;röntgen-sugarak;első művese;CBDA;BIOLÓGIA
+Állítsák sorrendbe a fővárosokat Budapesttől mért távolságuk szerint! Kezdjék a legközelebbivel!;Lisszabon;Tokió;Újdelhi;Bécs;DACB;FÖLDRAJZ
+Állítsák első űrrepülésük időrendjébe az alábbi űrhajósokat!;Farkas Bertalan;Neil Armstrong;Jurij Gagarin;John Glenn;CDBA;TUDOMÁNY
+Állítsák időrendbe Szabó István filmjeit! Kezdjék a legkorábbival!;Mephisto;Álmodozások kora;Szerelmesfilm;A napfény íze;BCAD;FILM
+Állítsák sorrendbe a híres történelmi forradalmakat!;őszirózsás forradalom;nagy francia forradalom;angol polgári forradalom;márciusi ifjak forradalma;CBDA;TÖRTÉNELEM
+Tegyék sorrendbe a Nobel-békedíjasokat a díj odaítélésének éve alapján! Kezdjék a legkorábbival!;Henri Dunant;Willy Brandt;Albert Schweitzer;Lech Walesa;ACBD;TUDOMÁNY
+Tegyék a Földközi-tenger szigeteit sorba nyugatról kelet felé haladva!;Korzika;Kréta;Mallorca;Málta;CADB;FÖLDRAJZ
+Tegyék a híres magyar utazókat születésük időrendjébe!;Kittenberger Kálmán;Kőrösi Csoma Sándor;Vámbéry Ármin;Julianus barát;DBCA;TÖRTÉNELEM
+Állítsák fejlettségi sorrende az alábbi gerinces állatokat! Kezdjék a legfejlettlenebbel!;halak;madarak;hüllők;kétéltűek;ADCB;BIOLÓGIA
+Állítsák időrendi sorrendbe a következő magyar filmvígjátékokat! Kezdjék a legkorábbival!;A tizedes meg a többiek;Állami áruház;Halálos tavasz;Csinibaba;CBAD;FILM
+Tegyék átlagos példányuk hosszának növekvő sorrendjébe a madarakat!;rétisas;ökörszem;feketerigó;vetési varjú;BCDA;BIOLÓGIA
+Tegyék az alábbi híres történetírókat születésük időrendjébe!;Hérodotosz;Tacitus;Bonfini;Anonymus;ABDC;IRODALOM
+Tegyék sorrendbe a közlekedési lámpa fényeit! Kezdjék a tilos jelzéssel!;piros-sárga;piros;zöld;sárga;BACD;ÁLTALÁNOS
+Állítsák sorrendbe a sportágakat eddigi olimpiai aranyérmeink száma szerint! Kezdjék a legeredményesebbel!;cselgáncs;öttusa;vívás;kajak-kenu;CDBA;SPORT
+Tegyék a magyar megyéket területük nagyságának növekvő sorrendjébe!;Pest;Fejér;Komárom-Esztergom;Bács-Kiskun;CBAD;FÖLDRAJZ
+Állítsák az Oscar-díjas filmeket díjazásuk időrendjébe!;Rocky;A nagy balhé;Farkasokkal táncoló;Az angol beteg;BACD;FILM
+Állítsák időrendi sorrendbe az alábbi római császárokat! Kezdjék a legkorábbival!;Nero;Constantinus;Augustus;Hadrianus;CADB;TÖRTÉNELEM
+Tegyék a csapatokat pályán lévő tagjaik számának emelkedő sorrendjébe! Kezdjék a legkevesebbel!;kézilabda;labdarúgás;rögbi;röplabda;DABC;SPORT
+Állítsák időrendbe a fagyosszentek napjait! Kezdjék az év elejéhez legközelebbivel!;Orbán;Binifác;Pongrác;Szervác;CDBA;ÁLTALÁNOS
+Tegyék "megszületésük" időrendjébe az alábbi irodalmi alakokat!;Raszkolnyikov;Svejk;Anyegin;Gulliver;DCAB;IRODALOM
+Tegyék az Oscar-díjas filmeket díjazásuk időrendjébe!;My Fair Lady;A bárányok hallgatnak;Amerikai szépség;Kramer kontra Kramer;ADBC;FILM
+Tegyék területük nagysága szerinti növekvő sorrendbe Magyarország alábbi szomszédjait!;Szlovénia;Ausztria;Ukrajna;Románia;ABDC;FÖLDRAJZ
+Állítsák születésük sorrendjébe az alábbi olasz zeneszerzőket!;Rossini;Monteverdi;Vivaldi;Verdi;BCAD;OPERA
+Tegyék a növényeket a Földön való megjelenésük időrendjébe!;fenyők;mohák;zárvatermők;moszatok;DBAC;BIOLÓGIA
+Állítsák történésük időrendjébe a Robinson Crusoe című regény eseményeit!;hajótörés;csónakfaragás;a tisztek kiszabadítása;találkozás Péntekkel;ABDC;IRODALOM
+Állítsák időrendi sorrendbe az alábbi francia köztársasági elnököket!;George Pompidou;Jacques Chirac;Francois Mitterand;Charles de Gaulle;DACB;TÖRTÉNELEM
+Tegyék időrendi sorrendbe a következő magyar hadvezéreket! Kezdjék a legkorábbival!;Esze Tamás;Damjanich János;Hunyadi János;Zrínyi Miklós;CDAB;TÖRTÉNELEM
+Állítsák időrendi sorrendbe a felsorolt női olimpiai bajnok vívóinkat! Kezdjék a legkorábbival!;Tordasi Ildikó;Elek Ilona;Nagy Tímea;Rejtő Ildikó;BDAC;SPORT
+Állítsák sorrendbe a filmcímeket a hozzájuk tartozó számok alapján!;kicsi indián;mesterlövész;testőr;kiskutya;CBAD;FILM
+Tegyék időrendbe Máté evangéliumának eseményeit!;Pilátus ítélete;a hegyi beszéd;az utolsó vacsora;Jézus születése;DBCA;VALLÁS
+Állítsák sorrendbe a bolygókat a Naptól való közepes távolságuk szerint! Kezdjék a legközelebbivel!;Plútó;Föld;Mars;Merkúr;DBCA;TUDOMÁNY
+Állítsák sorrendbe a tudósokat Nobel-díjuk kézhezvételének időpontja alapján! Kezdjék a legkorábbival!;Albert Einstein;Szent-Györgyi Albert;Gábor Dénes;Conrad Röntgen;DABC;TUDOMÁNY
+Állítsák születésük időrendjébe az alábbi magyar színészeket! Kezdjék a legkorábbival!;Lendvay Márton;Latinovits Zoltán;Kabos Gyula;Básti Lajos;ACDB;SZÍNHÁZ
+Tegyék a jeles alkalmakat a naptári évnek megfelelő időrendbe!;mindenszentek;gyertyaszentelő;aranyvasárnap;vízkereszt;DBAC;ÁLTALÁNOS
+Állítsák a Duna folyásírányának megfelelő sorrendbe a magyar szigeteket!;Csepel-sziget;Margit-sziget;Szentendrei-sziget;Mohácsi-sziget;CBAD;FÖLDRAJZ
+Tegyék a magyar filmeket cselekményük történelmi időrendjébe!;Fényes szelek;Feltámadott a tenger;Egri csillagok;Honfoglalás;DCBA;FILM
+Tegyék keletkezésük időrendjébe a drámai hősöket!;Ibsen: Nora;Moliere: Tartuffe;Szophoklész: Antigoné;Shakespeare: Hamlet;CDBA;IRODALOM
+Állítsák "rangjuk" szerinti növekvő sorrendbe a felsorolt egyetemi oktatókat!;docens;rektor;tanársegéd;adjunktus;CDAB;ÁLTALÁNOS
+Tegyék a számmegjelölő kifejezéseket értékük emelkedő sorrendjébe!;okta-;hexa-;tri-;hepta-;CBDA;NYELV
+Állítsák a híres magyar zenés műveket bemutatásuk időrendjébe!;A padlás;Csárdáskirálynő;Bánk bán;Háry János;CBDA;MŰVÉSZET
+Állítsák sorrendbe viselésük helye szerint talptól fejtetőig a ruhadarabokat!;krinolin;turbán;mokaszin;dolmány;CADB;ÁLTALÁNOS
+Állítsák aranyérmük megszerzésének időrendjébe olimpiai bajnok kajak-kenusainkat!;Storcz Botond;Hesz Mihály;Parti János;Gyulay Zsolt;CBDA;SPORT
+Tegyék születésük időrendjébe a nagy meseírókat! Kezdjék a legkorábbival!;Aesopus;Andersen;Milne;La Fontaine;ADBC;IRODALOM
+Állítsák időrendbe a híres törvényalkotókat!;Hammurapi;Szent István;Drakhón;Werbőczy;ACBD;TÖRTÉNELEM
+Állítsák sorrendbe az alábbi városokat északról déli irányba! Kezdjék a legészakibbal!;Prága;Róma;Szentpétervár;Kairó;CABD;FÖLDRAJZ
+Állítsák születésük időrendjébe a repülés történetének nagy alakjait!;Blériot;Montgolfier testvérek;Zeppelin;Lindbergh;BCAD;TECHNIKA
+Állítsák születésük sorrendjébe az alább felsorolt rockzenészeket! Kezdjék a legkorábbival!;Bill Haley;Jimi Hendrix;Michael Jackson;Elvis Presley;ADBC;ZENE
+Tegyék időrendi sorrendbe a felsorolt pápákat! Kezdjék a legkorábbival!;XIII. Gergely;Szent Péter;XXIII. János;II. Szilveszter;BDAC;VALLÁS
+Tegyék az alábbi híres "irodalmi fogalmakat" kitalálásuk időrendjébe!;az öreg halász nagy fogása;Tatjana levele;Don Quijote szélmalomharca;Odüsszeusz íjversenye;DCBA;IRODALOM
+Állítsák időrendbe a magyar filmeket aszerint, hogy melyik korban játszódnak!;Semmelwies;Rab Ráby;Julianus;Csinibaba;CBAD;FILM
+Állítsák a zeneszerzőket születésük időrendjébe!;Paul McCartney;George Gershwin;Leonard Bernstein;Giuseppe Verdi;DBCA;OPERA
+Tegyék a forinthoz viszonyított árfolyamuk szerinti növekvő sorrendbe a valutákat!;francia frank;angol font;német márka;amerikai dollár;ACDB;ÁLTALÁNOS
+Tegyék megírásuk időrendjébe a híres irodalmi összecsapásokat!;Anyegin és Lenszkij;Antigoné és Kreón;Rómeó és Tybalt;Boka és Áts Feri;BCAD;IRODALOM
+Tegyék a híres magyar asszonyokat születésük időrendjébe!;Bajor Gizi;Zrínyi Ilona;Szendrey Júlia;Mária királynő;DBCA;TÖRTÉNELEM
+Állítsák sorrendbe az alábbi fővárosokat nyugatról keleti irányba! Kezdjék a 0. hosszúsági foknál!;Bagdad;London;Tokió;Budapest;BDAC;FÖLDRAJZ
+Állítsák születésük időrendjébe a neves magyar sakkozókat!;Portisch Lajos;Polgár Judit;Lékó Péter;Polgár Zsófia;ADBC;SPORT
+Tegyék uralkodásuk sorrendjébe az alábbi angol uralkodókat! Kezdjék a legkorábbival!;VIII. Henrik;II. Erzsébet;I. (Oroszlánszívű) Richárd;Viktória;CADB;TÖRTÉNELEM
+Tegyék megépítésük időrendjébe a híres hajókat!;Titanic;Kon-Tiki;Santa Maria;Mayflower;CDAB;ÁLTALÁNOS
+Tegyék időrendbe Ady Endre életének jelentős eseményeit!;a Nyugat első száma;első kötete;zilahi iskolaévek;házasság Csinszkával;CBAD;IRODALOM
+Tegyék születésük időrendjébe a felsorolt magyar feltalálókat!;Kempelen Farkas;Kandó Kálmán;Gábor Dénes;Jedlik Ányos;ADBC;TECHNIKA
+Állítsák sorrendbe az alábbi magyar városokat nyugatról keleti irányba!;Debrecen;Szolnok;Székesfehérvár;Kőszeg;DCBA;FÖLDRAJZ
+Állítsák sorrendbe bentről kifelé haladva a madártojás részeit!;sárgája;mészhéj;fehérje;héjhártya;ACDB;BIOLÓGIA
+Állítsák bemutatásuk időrendjébe a Robert Redford főszereplésével készült filmeket!;A nagy balhé;Tisztességtelen ajánlat;Távol Afrikától;A suttogó;ACBD;FILM
+Tegyék egyéni olimpiai aranyérmük megszerzésének időrendjébe az alábbi kardvívóinkat!;Szabó Bence;Gerevich Aladár;Kárpáti Rudolf;Dr. Fuchs Jenő;DBCA;SPORT
+Tegyék tényleges elhalálozásuk sorrendjébe a Rómeó és Júlia szereplőit!;Rómeó;Júlia;Mercutio;Tybalt;CDAB;IRODALOM
+Állítsák születésük időrendjébe az alábbi német zeneszerzőket!;Schumann;Beethoven;Telemann;Richard Strauss;CBAD;OPERA
+Tegyék sorrendbe a halakat átlagos nagyságuk szerint! Kezdjék a legkisebbel!;mélytengeri angolna;európai szardella;törpeharcsa;kardhal;BCAD;BIOLÓGIA
+Állítsák sorrendbe az alapállásban álló sakkfigurákat a tábla szélétől a közepe felé haladva!;bástya;vezér;huszár;futó;ACDB;JÁTÉK
+Állítsák születésük időrendjébe a magyar színészeket!;Zenthe Ferenc;Csortos Gyula;Huszti Péter;Kulka János;BACD;SZÍNHÁZ
+Állítsák időrendbe a Bibliában szereplő királyokat!;Dávid;Saul;Salamon;Heródes;BACD;VALLÁS
+Milyen sorrendben voltak hatalmon az alábbi szovjet pártfőtitkárok?;Nyikita Hruscsov;Leonyid Brezsnyev;Mihail Gorbacsov;Jurij Andropov;ABDC;TÖRTÉNELEM
+Állítsák az országokat az Egyenlítőtől való távolságuk sorrendjébe! Kezdjék a legközelebbivel!;Kenya;Törökország;Jemen;Grúzia;ACBD;FÖLDRAJZ
+Tegyék a Duna folyásiránya szerinti sorrendbe a budapesti hidakat!;Széchenyi-Lánchíd;Petőfi híd;Margit híd;Árpád híd;DCAB;MAGYARORSZÁG
+Állítsák a főszereplőként Oscar-díjat nyert színésznőket első díjazásuk időrendjébe!;Cher;Barbra Streisand;Vivien Leigh;Grace Kelly;CDBA;FILM
+Tegyék születésük időrendjébe a következő magyar labdarúgó csatárokat!;Albert Flórián;Kiprich József;Zsengellér Gyula;Puskás Ferenc;CDAB;SPORT
+Tegyék alapterületük szerint sorba a tavakat! Kezdjék a legkisebbel!;Fertő-tó;Balaton;Szelidi-tó;Velencei-tó;CDAB;FÖLDRAJZ
+Állítsák az együtteseket első önálló nagylemezük megjelenésének időrendjébe!;Fonográf;Illés;Republic;Bikini;BADC;ZENE
+Állítsák bemutatásuk időrendjébe Steven Spielberg filmjeit!;E.T.;Hook;Jurrasic Park;Cápa;DABC;FILM
+Tegyék születésük időrendjébe a felsorolt magyar költőket! Kezdjék a legkorábbival!;Radnóti Miklós;Arany János;Balassi Bálint;Csokonai Vitéz Mihály;CDBA;IRODALOM
+Tegyék időrendi sorrendbe az alábbi írásfajtákat! Kezdjék a legkorábbival!;cirill írás;görög írás;hieroglif írás;arab írás;CBDA;NYELV
+Tegyék növekvő sorrendbe a régi magyar hosszmértékeket!;magyar mérföld;bécsi öl;bécsi láb;bécsi hüvelyk;DCBA;TUDOMÁNY
+Tegyék az európai nyelveket beszélőik számának emelkedő sorrendjébe!;macedón;bolgár;francia;lengyel;ABDC;NYELV
+Tegyék az irodalmi műveket a címből hiányzó értékek emelkedő sorrendjébe!;A … Lotti (Kastner);… kicsi néger (Christie);A … nővér (Csehov);… év magány (Márquez);ACBD;IRODALOM
+Tegyék átmérőjük emelkedő sorrendjébe naprendszerünk égitesteit!;Nap;Plútó;Jupiter;Szaturnusz;BDCA;TUDOMÁNY
+Állítsák időrendi sorrendbe az alábbi  magyar köztársasági elnököket! Kezdjék a legkorábbival!;Mádl Ferenc;Tildy Zoltán;Göncz Árpád;Károlyi Mihály;DBCA;TÖRTÉNELEM
+Tegyék az alábbi magyar vígjátékokat első bemutatásuk időrendjébe!;A miniszter félrelép;Fel a fejjel!;Hippolyt, a lakáj;Sose halunk meg!;CBDA;FILM
+Tegyék sorba a festőket aszerint, hány évig éltek! Kezdjék a legrövidebb életűvel!;Pablo Picasso;Toulose-Lautrec;Rubens;Paul Gauguin;BDCA;KÉPZŐMŰVÉSZET
+Tegyék észak-déli sorrendbe az afrikai városokat!;Kairó;Nairobi;Addisz-Abeba;Pretoria;ACBD;FÖLDRAJZ
+Állítsák az Éva megformálta nőket időrendbe aszerint, ahogy Az ember tragédiájában megjelennek!;Izóra;Borbála;egy eszkimó neje;egy rabszolga neje;DABC;IRODALOM
+Tegyék időrendbe az egy szervajátékon belüli lehetséges teniszállásokat!;30:15;0:15;30:40;15:15;BDAC;SPORT
+Állítsák születésük időrendjébe a híres orvosokat!;Christian Barnard;Hippokratész;Semmelweis Ignác;Paracelsus;BDCA;TUDOMÁNY
+Tegyék sorba az amerikai elnököket aszerint, hány évig töltötték be hivatalukat! Kezdjék a legkevesebbel!;J. F. Kennedy;F. D. Rossevelt;Bill Clinton;Jimmy Carter;ADCB;TÖRTÉNELEM
+Tegyék fejtől lefelé haladva sorba az alábbi testrészeket!;hipotalamusz;vádli;kulcscsont;achilles-ín;ACBD;BIOLÓGIA
+Állítsák magasság szerinti sorrendbe a felsorolt magyar hegycsúcsokat! Kezdjék a legmagasabbal!;Kékes;Gellért-hegy;János-hegy;Dobogó-kő;ADCB;FÖLDRAJZ
+Tegyék születésük időrendjébe az alábbi híres forradalmárokat!;V. I. Lenin;Robespierre;Che Guevara;Oliver Cromwell;DBAC;TÖRTÉNELEM
+Állítsák az elemeket vegyjelük ábécérendjébe!;nitrogén;bór;foszfor;kálium;BDAC;TUDOMÁNY
+Tegyék a filmrendezőket születésük időrendjébe!;George Lucas;Alfred Hitchcock;Federico Fellini;Charlie Chaplin;DBCA;FILM
+Állítsák a termékeket energiatartalmuk emelkedő sorrendjébe!;citrom;csokoládé;szalonna;bab;ADBC;TUDOMÁNY
+Tegyék születésük időrendjébe az alábbi reneszánsz személyiségeket!;Mátyás király;Bethlen Gábor;Shakespeare;Gutenberg;DACB;TÖRTÉNELEM
+Állítsák népesség szerinti sorrendbe a felsorolt földrészeket! Kezdjék a legnépesebbel!;Afrika;Ausztrália és Óceánia;Észak-Amerika;Ázsia;DACB;FÖLDRAJZ
+Tegyék értékük szerinti sorba az alábbi törteket! Kezdjék a legkisebbel!;egyhatod;háromnegyed;héttized;kétharmad;ADCB;TUDOMÁNY
+Állítsák az alábbi magyar birkózókat olimpiai aranyérmük megszerzésének időrendjébe!;Hegedűs Csaba;Kárpáti Károly;Kozma István;Farkas Péter;BCAD;SPORT
+Tegyék a zeneműveket az azokat megszólaltató hangszerek száma szerinti növekvő sorrendbe!;Beethoven: Tavaszi szonáta;Chopin: Perc-keringő;Mendelssohn: Olasz szimfónia;Schubert: Pisztráng-ötös;BADC;OPERA
+Állítsák időrendbe az Újszövetség alábbi eseményeit!;Angyali üdvözlet;Utolsó vacsora;Hegyi beszéd;Jézus keresztre feszítése;ACBD;VALLÁS
+Állítsák az együtteseket első nagylemezük megjelenésének időrendjébe!;Pa-Dö-Dö;KFT;Bergendy;Bestiák;CBAD;ZENE
+Állítsák sorrendbe a Balaton-parti településeket, Budapesttől való növekvő távolságuk szerint!;Siófok;Balatonszemes;Szántód;Fonyód;ACBD;FÖLDRAJZ
+Állítsák a bibliai fogalmakat a hozzájuk tartozó számok növekvő sorrendjébe!;Egyiptomot sújtó csapások;szűk esztendők;Júdás ezüstpénzei;az apostolok száma;BADC;VALLÁS
+Állítsák sorba a verseket versszakaik száma szerint! Kezdjék a legkevesebbel!;Kölcsey: Himnusz;Ady: Párizsban járt az ősz;Petőfi: Nemzeti dal;Arany: A walesi bárdok;BCAD;IRODALOM
+Állítsák a híres nőket születésük időrendjébe!;Mária Lujza;Jeanne d' Arc;Mata Hari;Brigitte Bardot;BACD;ÁLTALÁNOS
+Tegyék történetük időrendjébe az alábbi szerelmes tárgyú műveket!;Elfújta a szél;Love story;Rómeó és Júlia;A szerelmes Shakespeare;CDAB;FILM
+Állítsák növekvő sorrendbe a fémeket olvadáspontjuk szerint!;arany;higany;ólom;ezüst;BCDA;TUDOMÁNY
+Tegyék születésük sorrendjébe a következő magyar utazókat!;Vámbéry Ármin;Germanus Gyula;Kőrösi Csoma Sándor;Julianus barát;DCAB;TÖRTÉNELEM
+Tegyék az alábbi városokat az ott megrendezett olimpiák időrendjébe!;Berlin;München;Helsinki;Atlanta;ACBD;SPORT
+Állítsák sorba területük szerint az alábbi országokat! Kezdjék a legnagyobbal!;Vatikán;San Marino;Szlovénia;Málta;CDBA;FÖLDRAJZ
+Tegyék gyártásuk időrendjébe a híres sci-fi filmeket!;Csillagok háborúja;2001. Űrodüsszeia;Mátrix;Metropolis;DBAC;FILM
+Állítsák születésük időrendjébe a magyar zeneszerzőket!;Presser Gábor;Erkel Ferenc;Petrovics Emil;Kálmán Imre;BDCA;OPERA
+Állítsák növekvő sorrendbe a növényeket átlagos magasságuk szerint!;mamutfenyő;bükk;aranyeső;gyöngyvirág;DCBA;BIOLÓGIA
+Állítsák a nagylemezeket első megjelenésük időrendjébe!;Loksi;Illések és pofonok;Macska az úton;Indul a mandula;BACD;ZENE
+Állítsák sorrendbe a felsorolt országokat népsűrűségük alapján! Kezdjék a legsűrűbben lakottal!;Hollandia;Nyugat-Szahara;Banglades;Magyarország;CADB;ORSZÁGOK
+Tegyék legelső kötetük megjelenésének időrendjébe az alábbi költőket!;Babits Mihály;József Attila;Weöres Sándor;Reviczky Gyula;DABC;IRODALOM
+Tegyék sorrendbe a felsorolt emberi csontokat! Kezdjék felülről!;lapocka;járomcsont;sípcsont;medencecsont;BADC;BIOLÓGIA
+Tegyék sorrendbe a felsorolt magyar városokat keletről nyugatra haladva!;Eger;Sopron;Nyíregyháza;Esztergom;CADB;FÖLDRAJZ
+Állítsák növekvő sorrendbe az írókat aszerint, hány fennmaradt szindarabjukat tartjuk számon!;Petőfi Sándor;William Shakespeare;Szophoklész;Lope de Vega;ACBD;IRODALOM
+Állítsák az alábbi zenés műveket bemutatásuk időrendjébe!;Macskák;A víg özvegy;Aida;Don Giovanni;DCBA;OPERA
+Állítsák időrendbe a magyar filmeket aszerint, melyik korban játszódnak!;Ezek a fiatalok;Akli Miklós;Csínom Palkó;Talpalatnyi föld;CBDA;FILM
+Tegyék a nemzeteket összes nyári olimpiai aranyérmük számának növekvő sorrendjébe!;Egyesült Államok;Japán;Magyarország;Svájc;DBCA;SPORT
+Állítsák az alábbi szavakat a Himnuszban való elhangzásuk sorrendjébe!;balsors;jövendőt;bőséggel;ellenséggel;CDAB;SPORT
+Állítsák megalakulásuk időrendjébe a következő rockegyütteseket!;U2;Pet Shop Boys;The Beatles;Led Zeppelin;CDAB;ZENE
+Tegyék a Biblia könyveit történeti sorrendbe!;Kivonulás könyve;Teremtés könyve;Jób könyve;Jónás könyve;BACD;VALLÁS
+Állítsák időrendbe Phileas Fogg, a Verne-hős nyolcvan napos utazásának állomásait!;San Francisco;Szuez;Bombay;New York;BCAD;IRODALOM
+Állítsák növekvő sorrendbe a neveket aszerint, hány Árpád-házi királyunk viselte!;Péter;István;Béla;András;ADCB;TÖRTÉNELEM
+Tegyék cselekményük történésének időrendjébe a következő operákat! Kezdjék a legkorábbival!;Erkel: Bánk bán;Puccini: Tosca;Wagner: Lohengrin;Verdi: Nabucco;DCAB;OPERA
+Tegyék születésük időrendjébe a felsorolt magyar válogatott hátvédeket!;Garaba Imre;Buzánszky Jenő;Kehrling Béla;Mészöly Kálmán;CBDA;SPORT
+Tegyék születésük időrendjébe a híres szobrászokat!;Izsó Miklós;Kisfaludi Strobl Zsigmond;Kolozsvári Márton;Melocco Miklós;CABD;KÉPZŐMŰVÉSZET
+Állítsák sorba a folyókat maximális vízhozamuk szerint! Kezdjék a legkevesebbel!;Mississippi;Duna;Amazonas;Pó;DBAC;FÖLDRAJZ
+Állítsák időrendi sorrendbe az év jeles napjait! Kezdjék a legkorábbival!;Anyák napja;Valentin nap;Mikulás;Nőnap;BDAC;ÁLTALÁNOS
+Állítsák sorba az ásványokat szemcsekeménységük szerint! Kezdjék a legpuhábbal!;kvarc;kalcit;gipsz;grafit;DCBA;TUDOMÁNY
+Tegyék sorrendbe az alábbi félszigeteket területük nagysága szerint! Kezdjék a legnagyobbal!;Florida;Arab-félsziget;Krím-félsziget;Skandináv-félsziget;BDAC;FÖLDRAJZ
+Tegyék születésük időrendjébe a következő osztrák zeneszerzőket!;ifj. Johann Strauss;Arnold Schönberg;Joseph Haydn;Franz Schubert;CDAB;OPERA
+Tegyék megalakulásuk időrendjébe a felsorolt rockegyütteseket!;Pink Floyd;Pet Shop Boys;AC/DC;Beach Boys;DACB;ZENE
+Állítsák sorrendbe az USA szövetségi államait az Atlanti-óceántól a Csendes-óceánig!;Kansas;Arizona;Kalifornia;Florida;DABC;FÖLDRAJZ
+Tegyék időrendbe a Nobel-békedíjasokat! Kezdjék azzal, aki a legkorábban kapta!;Lech Walesa;Martin Luther King;Mihail Gorbacsov;Albert Schweitzer;DBAC;ÁLTALÁNOS
+Állítsák külügyminiszterségük időrendjébe a magyar politikusokat!;Horn Gyula;Kovács László;Jeszenszky Géza;Martonyi János;ACBD;TÖRTÉNELEM
+Állítsák az építészet nagyjait születésük időrendjébe!;Gustave Eiffel;Le Corbusier;Imhotep;Michelangelo;CDAB;ÉPÍTÉSZET
+Tegyék időrendbe a magyar történelmi hősöket!;Koppány;Kinizsi Pál;Esze Tamás;Dobó István;ABDC;TÖRTÉNELEM
+Állítsák születésük időrendjébe a neves írónőket!;Jane Austen;Simone de Beauvoir;George Sand;J.K. Rowling;ACBD;IRODALOM
+Állítsák a Duna menti országokat a folyó folyásirányának megfelelő sorrendbe!;Szlovákia;Ausztria;Románia;Magyarország;BADC;FÖLDRAJZ
+Állítsák sorrendbe a fogalmakat aszerint, ahogy a Szeptember végén című versben előfurdulnak!;téli világ;zöldellő nyárfa;kerti virágok;bérci tető;CBAD;IRODALOM
+Állítsák sorba az országokat a férfiak születéskor várható élettartama szerint! Kezdjék a legkevesebbel!;Franciaország;Brazília;Kenya;Banglades;DCBA;ORSZÁGOK
+Állítsák születésük sorrendjébe a következő külföldi énekesnőket!;Tina Turner;Ella Fitzgerald;Diana Ross;Madonna;BACD;ZENE
+Tegyék a magyar filmeket a címekből hiányzó számok növekvő sorrendjébe!;2x2 néha …;A … testőr Afrikában;… tonna dollár;Mese a … találatról;BACD;FILM
+Tegyék születésük sorrendjébe az alábbi híres tudósokat!;Mengyelejev;Marie Curie;Lavoisier;Faraday;CDAB;TUDOMÁNY
+Állítsák sorrendbe az alábbi sportágak labdáit méretük szerint! Kezdjék a legkisebbel!;tenisz;labdarúgás;kézilabda;asztalitenisz;DACB;SPORT
+Tegyék megírásuk időrendjébe az alábbi ismert magyar verseket!;Nemzeti dal;Héjanász az avaron;A Reményhez;Hajnali részegség;CABD;IRODALOM
+Állítsák az űreszközöket első fellövésük időrendjébe!;Vosztok-1 űrhajó;Szputnyik-1 műhold;Apollo-11 űrhajó;Columbia űrrepülőgép;BACD;TUDOMÁNY
+Állítsák időrendbe a felsorolt magyar csatákat!;kenyérmezei csata;muhi csata;segesvári csata;mohácsi csata;BADC;TÖRTÉNELEM
+Tegyék területük szerint sorba a volt szovjet tagköztársaságokat! Kezdjék a legkisebbel!;Oroszország;Lettország;Kazahsztán;Azerbajdzsán;BDCA;FÖLDRAJZ
+Állítsák az énekesnőket első önálló nagylemezük megjelenésének időrendjébe!;Szandi;Zoltán Erika;Cserháti Zsuzsa;Kovács Kati;DCBA;ZENE
+Állítsák az országokat első labdarúgó világbajnoki aranyérmük megszerzésének időrendjébe!;Olaszország;Franciaország;Brazília;Argentína;ACDB;SPORT
+Tegyék sorrendbe a felsorolt bibliai szereplőket a hozzájuk kapcsolódó számok alapján?;apostolok;napkeleti bölcsek;latrok;evangelisták;CBDA;VALLÁS
+Tegyék születésük időrendjébe a híres írónőket!;Szabó Magda;Kaffka Margit;George Sand;Jane Austen;DCBA;IRODALOM
+Tegyék időrendbe a híres ütközeteket!;trafalgari csata;szalamiszi csata;lepantói csata;sztálingrádi csata;BCAD;TÖRTÉNELEM
+Tegyék sorba a magyar hegységeket legmagasabb csúcsuk szerint! Kezdjék a legalacsonyabbal!;Mátra;Bükk;Gerecse;Bakony;CDBA;FÖLDRAJZ
+Állítsák a főszereplőként Oscar-díjat nyert színészeket első díjazásuk időrendjébe!;Laurence Olivier;Gregory Peck;Nicolas Cage;Dustin Hoffman;ABDC;FILM
+Állítsák naptári időrendbe a jeles napokat!;virágvasárnap;nagypéntek;pünkösd;húsvét;ABDC;VALLÁS
+Állítsák sorba az országokat népsűrűségük szerint! Kezdjék a legkevesebbel!;Ciprus;Peru;Ausztrália;Kína;CBAD;ORSZÁGOK
+Állítsák időrendbe a következő földrajzi felfedezőket!;David Livingstone;Roald Amundsen;James Cook;Ferdinand Magellán;DCAB;TÖRTÉNELEM
+Állítsák fejlettségi sorrendbe az alábbi állatokat! Kezdjék a legfejletlenebbel!;szalamandra;osztriga;kolibri;fóka;BACD;BIOLÓGIA
+Állítsák időrendi sorrendbe a következő szobrászokat! Kezdjék a legrégebbivel!;Henry Moore;Michelangelo;Rodin;Müron;DBCA;KÉPZŐMŰVÉSZET
+Tegyék keletkezésük időrendjébe a híres eposzokat!;Mahábhárata;Szigeti veszedelem;Aeneis;Zalán futása;ACBD;IRODALOM
+Állítsák időrendi sorrendbe a következő magyar olimpiai bajnok tornászokat!;Magyar Zoltán;Borkai Zsolt;Csollány Szilveszter;Pelle István;DABC;SPORT
+Állítsák a bolygókat növekvő sorrendbe ismert holdjaik alapján!;Föld;Mars;Jupiter;Uránusz;ABDC;TUDOMÁNY
+Állítsák emelkedő sorrendbe a magyar városokat az ott haladó országos főútvonal száma szerint!;Vác;Pécs;Veszprém;Debrecen;ADBC;MAGYARORSZÁG
+Tegyék időrendi sorrendbe az alábbi esztergomi érsekeket!;Mindszenty József;Bakócz Tamás;Paskai László;Pázmány Péter;BDAC;VALLÁS
+Állítsák sorrendbe az alábbi együtteseket tagjaik száma alapján! Kezdjék a legkevesebbel!;Irígy Hónaljmirigy;Ganxsta Zolee és a Kartel;Bon Bon;V.I.P.;CDBA;ZENE
+Tegyék sorrendbe a magyar borvidékeket keletről nyugat felé haladva!;Tokaj;Badacsony;Villány;Eger;ADCB;MAGYARORSZÁG
+Állítsák az irodalmi hősöket "születésük" időrendjébe!;Nemecsek Ernő;Baradlay Richárd;Nyilas Misi;Vitay Georgina;BACD;IRODALOM
+Tegyék születésük időrendjébe az orosz irodalom kimagasló alakjait!;Gogol;Majakovszkij;Csehov;Szolzsenyicin;ACBD;IRODALOM
+Tegyék a növényeket átlagos magasságuk szerint növekvő sorrendbe!;kikeleti hóvirág;húsos som;törpemandula;fehér akác;ACBD;BIOLÓGIA
+Állítsák növekvő sorrendbe az országokat területük nagysága szerint!;Izland;Japán;Egyiptom;Luxemburg;DABC;FÖLDRAJZ
+Állítsák sorba a filmsztárokat aszerint, hogy hány évig éltek! Kezdjék a legrövidebb életűvel!;Richard Burton;Henry Fonda;James Dean;Marilyn Monroe;CDAB;FILM
+Tegyék az atlétikai dobóeszközöket az általuk teljesíthető távolság növekvő sorrendjébe!;kalapács;diszkosz;súlygolyó;gerely;CBAD;SPORT
+Állítsák sorrendbe északról dél felé haladva a felsorolt olasz városokat!;Milánó;Nápoly;Firenze;Róma;ACDB;FÖLDRAJZ
+Állítsák uralkodásuk időrendjébe a felsorolt brit uralkodókat!;I. (Oroszlánszívű) Richard;II. Erzsébet;Viktória;VIII. Henrik;ADCB;TÖRTÉNELEM
+Tegyék sorrendbe a nyelveket aszerint, hogy hányan beszélik anyanyelvként! Kezdjék a legelterjedtebbel!;mandarin kínai;olasz;arab;spanyol;ADCB;NYELV
+Állítsák sorba az állatokat aszerint, mennyi ideig vemhesek! Kezdjék a legrövidebbel!;kutya;csimpánz;elefánt;házi egér;DABC;BIOLÓGIA
+Állítsák sorrendbe a növényi sejt részeit belülről kifelé haladva!;maghártya;sejtplazma;sejtmag;sejtfal;CABD;BIOLÓGIA
+Állítsák a színésznőket pályakezdésük időrendjébe!;Tolnay Klári;Fedák Sári;Básti Juli;Psota Irén;BADC;SZÍNHÁZ
+Tegyék időrendi sorrendbe a felsorolt labdarúgó szövetségi kapitányokat! Kezdjék a legkorábbival!;Illovszky Rudolf;Sebes Gusztáv;Hajós Alfréd;Bicskei Bertalan;CBAD;SPORT
+Állítsák megfelelő sorba az ismert József Attila-vers versszakkezdő sorait!;Harminckétéves lettem én;Lehettem volna oktató;Harminckét évem elszelelt;Én egész népemet fogom;ACBD;IRODALOM
+Tegyék időrendbe a XIII. századi magyar történelem eseményeit!;Gertrúd halála;tatárjárás;IV. Béla koronázása;III. András koronázása;ACBD;TÖRTÉNELEM
+Tegyék születésük időrendjébe a felsorolt híres gitárosokat!;Jimi Hendrix;Bill Haley;Pat Metheny;Eric Clapton;BADC;ZENE
+Állítsák időrendi sorrendbe az Amerikai Egyesült Államok felsorolt elnökeit!;Ronald Reagan;George W. Bush;Dwight D. Eisenhower;Franklin D. Roosevelt;DCAB;TÖRTÉNELEM
+Állítsák sorba a képzőművészeti alkotásokat nagyságuk szerint! Kezdjék a legkisebbel!;Mona Lisa;Feszty-körkép;Éjjeli őrjárat;Rőzsehordó nő;ADCB;KÉPZŐMŰVÉSZET
+Állítsák a Kossuth-díjas színészeket díjazásuk időrendjébe!;Bessenyei Ferenc;Cserhalmi György;Garas Dezső;Kállai Ferenc;ADCB;SZÍNHÁZ
+Állítsák a városokat jelenlegi nevük első írásos említésének időrendjébe!;Tihany;Dunaújváros;Makó;Budapest;ACDB;TÖRTÉNELEM
+Tegyék csípősségük szerint növekvő sorrendbe a fűszerpaprika őrleményfajtákat!;csemege;rózsa;édesnemes;félédes;ACDB;KONYHA
+Állítsák növekvő sorrendbe a hegységeket legmagasabb csúcsaik megassága szerint!;Himalája;Alpok;Andok;Kilimandzsáró;BDCA;FÖLDRAJZ
+Állítsák kitalálásuk időrendjébe a híres irodalmi címszereplőnőket!;Jane Eyre;Nana;Elektra;Warrenné;CABD;IRODALOM
+Állítsák aranyérmük megszerzésének időrendjébe a felsorolt olimpiai bajnok vízilabdázóinkat!;Benedek Tibor;Halassy Olivér;Faragó Tamás;Gyarmati Dezső;BDCA;SPORT
+Állítsák növekvő sorrendbe a sokszögeket szögeik száma szerint!;hexagon;pentagon;trapéz;oktogon;CBAD;TUDOMÁNY
+Tegyék sorrendbe az alábbi operákat felvonásaik száma szerint! Kezdjék a legkevesebbel!;Moscagni: Parasztbecsület;Mozart: A varázsfuvola;Gounod: Faust;Puccini: Tosca;ABDC;OPERA
+Állítsák növekvő sorrendbe a bolygókat a Földtől való legnagyobb távolságuk szerint!;Vénusz;Neptunusz;Uránusz;Jupiter;ADCB;TUDOMÁNY
+Tegyék népesség szerinti sorrendbe az alábbi magyar megyeszékhelyeket! Kezdjék a legnépesebbel!;Győr;Debrecen;Szekszárd;Szolnok;BADC;MAGYARORSZÁG
+Tegyék születésük időrendjébe a híres történelmi asszonyokat!;Salome;Mata Hari;Jeanne d' Arc;Indira Gandhi;ACBD;TÖRTÉNELEM
+Állítsák a magyar filmvígjátékokat bemutatásuk időrendjébe!;Hattyúdal;Állami Áruház;Ripacsok;Egészséges erotika;BACD;FILM
+Állítsák sorba a legutóbbi olimpia magyar helyezettjeit! Kezdjék az aranyérmessel!;Nagy Tímea;Igaly Diána;Szabolcsi Szilvia;Márkus Erzsébet;ADBC;SPORT
+Tegyék sorrendbe a felsorolt zeneszerzőket aszerint, hogy hány szimfóniát írtak! Kezdjék a legkevesebbel!;Brahms;Bizet;Haydn;Beethoven;BADC;OPERA
+Állítsák a városokat Budapesttől való távolságuk növekvő sorrendjébe!;Prága;Berlin;Tokió;London;ABDC;FÖLDRAJZ
+Állítsák sorba a képeket aszerint, hány alak van a témájuk középpontjában! Kezdjék a legkevesebbel!;Mona Lisa;Majális;Hajóvontatók a Volgán;Az Arnolfini házaspár;ADBC;KÉPZŐMŰVÉSZET
+Állítsák növekvő sorrendbe az országokat az egy főre jutó bruttó hazai termék nagysága szerint!;Ausztrália;Egyiptom;Németország;Ghána;DBAC;ORSZÁGOK
+Állítsák sorba a külföldi költőket aszerint, hány évig éltek! Kezdjék a legrövidebb életűvel!;Goethe;Schiller;Shelley;Horatius;CBDA;IRODALOM
+Tegyék beiktatásuk időrendjébe a Magyar Tudományos Akadémia elnökeit!;Eötvös Loránd;Glatz Ferenc;Kosáry Domokos;Kodály Zoltán;ADCB;ÁLTALÁNOS
+Tegyék rangjuk szerinti emelkedő sorrendbe az alábbi római katolikus egyházi méltóságokat!;érsek;plébános;pápa;püspök;BDAC;VALLÁS
+Tegyék születésük időrendjébe a felsorolt francia zeneszerzőket!;Bizet;Berlioz;Rameau;Ravel;CBAD;OPERA
+Állítsák növekvő sorrendbe a mozifilmeket aszerint, hogy hány rész készült belőlük!;A keresztapa;Mission: Impossible;Rocky;Halálos fegyver;BADC;FILM
+Állítsák értékük emelkedő sorrendjébe a magyar kártya lapjait! Kezdjék a legkisebbel!;felső;ász;alsó;király;CADB;JÁTÉK
+Tegyék az országokat az általuk megnyert labdarúgó világbajnokságok száma szerinti növekvő sorrendjébe!;Argentína;Olaszország;Franciaország;Brazília;CABD;SPORT
+Tegyék keletkezésük szerinti időrendbe az alábbi ismert verseket!;Húsvét előtt;Nemzeti dal;A walesi bárdok;Himnusz;DBCA;IRODALOM
+Állítsák sorrendbe a felsorolt országokat területük nagysága alapján! Kezdjék a legnagyobbal!;Andorra;Írország;Japán;Kanada;DCBA;FÖLDRAJZ
+Állítsák időrendbe Szörényi Levente műveit!;István, a király;Kőműves Kelemen;Attila, Isten kardja;A kiátkozott;BACD;ZENE
+Állítsák időrendi sorrendbe a következő magyar hadvezéreket! Kezdjék a legkorábbival!;Zrínyi Miklós;Vak Bottyán;Bem József;Hunyadi János;DABC;TÖRTÉNELEM
+Állítsák megalapításuk időrendjébe a híres magyar intézményeket! Kezdjék a legkorábbival!;Operaház;az első pécsi egyetem;Tudományos Akadémia;debreceni református kollégium;BDCA;MAGYARORSZÁG
+Állítsák csökkenő sorrendbe az alábbi országokat Sydneyben nyert aranyérmeik száma szerint!;Ausztrália;Kína;Románia;Magyarország;BACD;SPORT
+Állítsák az ismert 20. századi politikusnőket születésük időrendjébe!;Margaret Thatcher;Indira Gandhi;Rosa Luxemburg;Benazir Bhutto;CBAD;TÖRTÉNELEM
+Tegyék születésük időrendjébe az alábbi szenteket!;Péter apostol;Szent Imre herceg;Árpád-házi Szent Margit;Assisi Szent Ferenc;ABDC;VALLÁS
+Tegyék sorba az alábbi mértani szögeket fokban kifejezett nagyságuk szerint! Kezdjék a legkisebbel!;derékszög;tompaszög;teljesszög;hegyesszög;DABC;TUDOMÁNY
+Állítsák testméretük emelkedő sorrendjébe az alábbi majmokat!;galléros pávián;ezüst selyemmajom;gorilla;mocsári cerkóf;BDAC;BIOLÓGIA
+Állítsák csökkenő sorrendbe a földrészeket legmagasabb pontjuk alapján!;Európa;Ázsia;Afrika;Dél-Amerika;BDCA;FÖLDRAJZ
+Tegyék a magyar tudósokat Nobel-díjuk elnyerésének időrendjébe!;Oláh György;Szent-Györgyi Albert;Bárány Róbert;Gábor Dénes;CBDA;TUDOMÁNY
+Állítsák időrendi sorrendbe az alábbi ókori uralkodókat! Kezdjék a legrégebbivel!;II. Ramszesz;Nagy Sándor;Tiberius;Xerxész;ADBC;TÖRTÉNELEM
+Tegyék sorrendbe a futballistákat válogatottságuk száma szerint! Kezdjék a legkevesebbel!;Bozsik József;Sebők Vilmos;Bene Ferenc;Törőcsik András;BDCA;SPORT
+Tegyék születésük időrendjébe az ismert magyar királynékat!;Erzsébet (Sissi);Meráni Gertrúd;Aragóniai Beatrix;Gizella;DBCA;TÖRTÉNELEM
+Állítsák sorrendbe a felsorolt folyókat magyarországi hosszuk szerint! Kezdjék a leghosszabbal!;Rába;Duna;Hernád;Tisza;DBAC;FÖLDRAJZ
+Tegyék bemutatásuk időrendjébe a felsorolt Andrew Lloyd Webber-musicaleket!;Az Operaház fantomja;Macskák;Evita;Jézus Krisztus szupersztár;DCBA;ZENE
+Állítsák időrendi sorrendbe az alábbi feltalálókat! Kezdjék a legkorábbival!;Jedlik Ányos;Arkhimédész;Neumann János;Johannes Gutenberg;BDAC;TECHNIKA
+Tegyék születésük időrendjébe az alábbi magyar énekesnőket!;Szűcs Judith;Szulák Andrea;Orsi;Kovács Kati;DABC;ZENE
+Állítsák a magyar filmeket bemutatásuk időrendjébe!;Bakaruhában;Budapesti tavasz;Álmodozások kora;A nagy generáció;BACD;FILM
+Tegyék időrendbe a Széchenyi István életével kapcsolatos eseményeket!;a Hitel megjelenése;az MTA alapítása;a Lánchíd megnyitása;döblingi röpiratok;BACD;TÖRTÉNELEM
+Tegyék időrendbe a Római Birodalom nevezetes korszakait! Kezdjék a legkorábbival!;Augustus császársága;etruszk királyok kora;köztársaság kora;katonacsászárok uralma;BCAD;TÖRTÉNELEM
+Állítsák a mozihősöket első filmvászonra lépésük időrendjébe!;Piedone;James Bond;Luke Skywalker;Indiana Jones;BACD;FILM
+Állítsák a városokat a Budapesttől számított időeltolódás sorrendjébe! Kezdjék a legkevesebbel!;Las Vegas;London;Rio de Janeiro;New York;BCDA;FÖLDRAJZ
+Tegyék uralkodásuk időtartama szerinti növekvő sorrendbe az alábbi magyar királyokat!;Luxemburgi Zsigmond;Mátyás;II. József;IV. Károly;DCBA;TÖRTÉNELEM
+Állítsák a fogalmakat a Párizsban járt az Ősz című versben való megjelenésük sorrendjébe!;Ősz;Párizs;Szent Mihály útja;Szajna;BACD;IRODALOM
+Tegyék születésük időrendjébe az ismert egyházi személyeket!;Szent Gellért;Mindszenty József;Pázmány Péter;Bakócz Tamás;ADCB;VALLÁS
+Állítsák pályakezdésük időrendjébe a magyar színésznőket!;Csűrös Karola;Komlós Juci;Ivancsics Ilona;Malek Andrea;BACD;SZÍNHÁZ
+Állítsák az állatokat jellegzetes élőhelyeik észak-déli sorrendjébe!;rénszarvas;óriáspanda;császárpingvin;bozótkenguru;ABDC;BIOLÓGIA
+Állítsák sorrendbe a miniszterelnököket aszerint, hány évesen léptek hivatalba! Kezdjék a legfiatalabbal!;Batthyány Lajos;Hegedűs András;Antall József;Horn Gyula;BACD;TÖRTÉNELEM
+Állítsák bemutatásuk időrendjébe a következő Oscar-díjas filmeket! Kezdjék a legkorábbival!;Ben Hur;Biciklitolvajok;Titanic;Esőember;BADC;FILM
+Állítsák sorba az alábbi fővárosokat lakosságuk száma szerint! Kezdjék a legkevesebbel!;Párizs;Vaduz;Bécs;London;BCAD;ORSZÁGOK
+Tegyék születésük időrendjébe a neves francia személyiségeket!;Richelieu bíboros;De Gaulle;Danton;IX. (Szent) Lajos;DACB;TÖRTÉNELEM
+Állítsák megfelelő sorrendbe az ismert népdal sorait!;miért nem virágoztál;szerelem, szerelem;minden falevelen;átkozott gyötrelem;BDAC;IRODALOM
+Állítsák növekvő sorrendbe az országokat területük nagysága szerint!;Liechtenstein;Belgium;Chile;Dánia;ABDC;FÖLDRAJZ
+Állítsák születésük időrendjébe a felsorolt híres magyar operaénekeseket!;Simándy József;Polgár László;Székely Mihály;Melis György;CADB;OPERA
+Állítsák a párosokat a Bibliában való megjelenésük sorrendjébe!;Ádám és Éva;József és Putifárné;Ábrahám és Sára;Sámson és Delila;ACBD;VALLÁS
+Állítsák időrendi sorrendbe a következő történeti korszakokat! Kezdjék a legrégebbivel!;bronzkorszak;kőkorszak;vaskorszak;rézkorszak;BDAC;TÖRTÉNELEM
+Állítsák csökkenő sorrendbe a tavakat területük nagysága szerint!;Kaszpi-tenger;Bajkál-tó;Balaton;Huron-tó;ADBC;FÖLDRAJZ
+Állítsák születésük időrendjébe a felsorolt francia irodalmárokat! Kezdjék a legkorábbival!;La Fontaine;Victor Hugo;Apollinaire;Villon;DABC;IRODALOM
+Tegyék felfedezésük időrendjébe az alábbi kémiai elemeket!;rádium;arany;hidrogén;nátrium;BCDA;TUDOMÁNY
+Állítsák az Orient Expressz egykori állomásait kelet-nyugati sorrendbe!;Bécs;München;Bukarest;Budapest;CDAB;FÖLDRAJZ
+Állítsák Arany János Toldijának szereplőit a műben való megjelenésük sorrendjébe!;Laczfi Endre;Bence;Toldi György;cseh vitéz;ACBD;IRODALOM
+Állítsák születésük sorrendjébe a török elleni harc jelentős hadvezéreit!;Hunyadi János;Zrínyi Miklós;Tomori Pál;Savoyai Jenő;ACBD;TÖRTÉNELEM
+Állítsák a filmsztárokat születésük időrendjébe!;John Wayne;Charles Bronson;Tom Cruise;Tom Hanks;ABDC;FILM
+Állítsák a híres nőket születésük időrendjébe!;Lucrezia Borgia;Marie Curie;Madame de Pompadour;Szappho;DACB;ÁLTALÁNOS
+Tegyék bemutatásuk időrendjébe az alábbi baletteket!;Stravinsky: Tűzmadár;Delibes: Coppélia;Presser: A próba;Csajkovszkij: Diótörő;BDAC;MŰVÉSZET
+Állítsák készítésük időrendjébe Sylvester Stallone filmjeit!;Rocky;Rambo;A specialista;Tango és Cash;ABDC;FILM
+Állítsák nyugat-keleti sorrendbe a Balaton északi partján fekvő településeket!;Balatonfüred;Balatonalmádi;Révfülöp;Szigliget;DCAB;FÖLDRAJZ
+Állítsák megfelelő sorrendbe az ismert Petőfi-vers sorait!;Reszket a lelkem, mert;Madárka szállott rá.;Eszembe jutottál.;Reszket a bokor, mert;DBAC;IRODALOM
+Tegyék időrendbe a 2000-es év nagy sporteseményeit!;olimpiai játékok;női kézilabda Európa-bajnokság;Bajnokok Ligája döntő-foci;Forma 1,Magyar Nagydíj;CDAB;SPORT
+Állítsák sorba a Budapest-Debrecen vasútvonal állomásait a fővárosból indulva!;Cegléd;Szolnok;Hajdúszoboszló;Karcag;ABDC;FÖLDRAJZ
+Tegyék beiktatásuk időrendjébe az USA elnökeit!;Harry Truman;Thomas Jefferson;Lyndon B. Johnson;Ulysses S. Grant;BDAC;TÖRTÉNELEM
+Állítsák időrendi sorrendbe az alábbi Oscar-díjas filmeket! Kezdjék a legkorábbival!;Tűzszekerek;Schindler listája;Ben Hur;My Fair Lady;CDAB;FILM
+Állítsák hivatalba lépésük időrendjébe a közoktatással foglalkozó minisztereket!;Eötvös József;Fodor Gábor;Pokorni Zoltán;Mádl Ferenc;ADBC;TÖRTÉNELEM
+Állítsák sorba a zeneszerzőket aszerint, hány évig éltek! Kezdjék a legrövidebb életűvel!;Mozart;Chopin;Liszt Ferenc;Bartók Béla;ABDC;OPERA
+Állítsák területük szerinti növekvő sorrendbe az alábbi szigeteket!;Jáva;Ciprus;Sri Lanka;Málta;DBCA;FÖLDRAJZ
+Állítsák életkoruk szerint sorba A kőszívű ember fiai című regény szereplőit! Kezdjék a legfiatalabbal!;Baradlay Kazimir;Baradlay Richárd;Baradlay Ödön;Baradlay Jenő;DBCA;IRODALOM
+Tegyék megalakulásuk időrendjébe a politikai-katonai szövetségeket!;Szent Szövetség;antant;SEATO;NATO;ABDC;TÖRTÉNELEM
+Tegyék nagyság szerinti sorrendbe a felsorolt római számokat! Kezdjék a legkisebbel!;XC;MM;DI;IV;DACB;ÁLTALÁNOS
+Állítsák születésük időrendjébe a magyar színészeket!;Rátonyi Róbert;Feleki Kamill;Bodrogi Gyula;Rudolf Péter;BACD;SZÍNHÁZ
+Állítsák sorba az országokat működő atomerőműveik száma szerint! Kezdjék a legkevesebbel!;Franciaország;USA;Ukrajna;Koreai Köztársaság;DCAB;ORSZÁGOK
+Állítsák történési sorrendbe a Bartók Béla életével kapcsolatos eseményeket!;első népdalgyűjtő körút;tanórák Erkel Lászlótól;emigráció;"A kékszakállú …" megírása;BADC;OPERA
+Állítsák keletkezési sorrendbe az alábbi regényeket! Kezdjék a legkorábbival!;A kőszívű ember fiai;Légy jó mindhalálig;Egri csillagok;A Pál utcai fiúk;ACDB;IRODALOM
+Állítsák sorba a Jézus feltámadásával kapcsolatos eseményeket János evangéliuma szerint!;az üres sír felfedezése;az utolsó vacsora;Barrabás elengedése;Lázár feltámasztása;DBCA;VALLÁS
+Tegyék kialakulásuk időrendjébe az alábbi híres államokat!;Kelet-Római Birodalom;Egyiptomi Birodalom;Osztrák-Magyar Monarchia;Német-Római Császárság;BADC;TÖRTÉNELEM
+Állítsák forgatásuk időrendjébe az Arnold Schwarzenegger főszereplésével készült filmeket!;Terminátor;Ikrek;Conan, a barbár;Az utolsó akcióhős;CABD;FILM
+Tegyék a 2000-es olimpia futóit aranyérmes számuk távjának sorrendjébe! Kezdjék a rövidtávval!;Haile Gebrselassie;Konsztantinosz Kenterisz;Michael Johnson;Maurice Greene;DBCA;SPORT
+Tegyék a magyar történelemből ismert szenteket elhalálozásuk időrendjébe!;Szent László;Szent István;Szent Gellért;Szent Margit;BCAD;TÖRTÉNELEM
+Tegyék a játékosok számának emelkedő sorrendjébe az alábbi kártyajátékokat!;piké;bridzs;császárpasziánsz;rablóulti;CADB;JÁTÉK
+Állítsák az alábbi filmsztárokat szülétésük időrendjébe!;James Stewart;Spencer Tracy;Al Pacino;Nicolas Cage;BACD;FILM
+Tegyék általánosan elfogadott létszámuk emelkedő sorrendjébe a mitikus lényeket!;gráciák;múzsák;danaidák;Oidipusz lányai;DABC;VALLÁS
+Állítsák forgatásuk időrendjébe a Marlon Brando szereplésével készült filmeket!;A vágy villamosa;Oroszlánkölykök;Apokalipszis most;A keresztapa;ABDC;FILM
+Állítsák növekvő sorrendbe a tengereket területük nagysága szerint!;Márvány-tenger;Vörös-tenger;Jeges-tenger;Földközi-tenger;ABDC;FÖLDRAJZ
+Állítsák hivatalba lépésük időrendjébe a következő magyar miniszterelnököket! Kezdjék a legkorábbival!;Tisza Kálmán;Bethlen István;Nagy Imre;Batthyány Lajos;DABC;TÖRTÉNELEM
+Állítsák megfelelő sorrendbe a Kőmíves Kelemenné című népballada sorait!;amit raktak estig;amit raktak délig;leomlott röggelre;leomlott estére;BDAC;IRODALOM
+Állítsák sorrendbe területük szerint az alábbi sivatagokat! Kezdjék a legnagyobbal!;Szahara;Kara-kum;Góbi;Atacama;ACBD;FÖLDRAJZ
+Tegyék területük nagysága szerinti növekvő sorrendbe Nagy-Britannia részeit és külbirtokait!;Wales;Skócia;Szent Ilona szigete;Man-sziget;CDAB;FÖLDRAJZ
+Állítsák sorba a magyar szabadságharc eseményeit! Kezdjék a legkorábbival!;pákozdi csata;Batthyány beiktatása;debreceni trónfosztás;segesvári csata;BACD;TÖRTÉNELEM
+Állítsák a Tisza mellékfolyóit a folyó folyásirányának megfelelő sorrendbe!;Túr;Sajó;Bodrog;Maros;ACBD;FÖLDRAJZ
+Tegyék születésük sorrendjébe a felsorolt matematikusokat!;Karl Friedrich Gauss;Neumann János;Bolyai János;Euklidész;DACB;TUDOMÁNY
+Tegyék születésük időrendjébe a világtörténelem alábbi császárait!;Nagy Konstantin;Rőtszakállú Frigyes;Napóleon;Ferenc József;ABCD;TÖRTÉNELEM
+Tegyék sorrendbe a felsorolt ázsiai országokat területük nagysága szerint! Kezdjék a legnagyobbal!;Japán;Pakisztán;Izrael;Kína;DBAC;FÖLDRAJZ
+Állítsák magyarországi bemutatásuk időrendjébe az alábbi musicaleket!;Elisabeth;West Side Story;Macskák;Hegedűs a háztetőn;BDCA;SZÍNHÁZ
+Tegyék sorba a ház szintjeit! Kezdjék a legalsóval!;tetőtér;alagsor;emelet;magasföldszint;BDCA;ÁLTALÁNOS
+Állítsák területük nagysága szerinti sorrendbe az alábbi európai miniállamokat! Kezdjék a legkisebbel!;Vatikán;Liechtenstein;Monaco;San Marino;ACDB;FÖLDRAJZ
+Állítsák sorba a 6-os út melletti településeket a főváros felé haladva!;Pécs;Szekszárd;Dunaújváros;Paks;ABDC;FÖLDRAJZ
+Tegyék közös államhatáraink hossza szerinti csökkenő sorrendbe Magyarország szomszédait!;Szlovénia;Horvátország;Románia;Szlovákia;DCBA;ORSZÁGOK
+Állítsák olimpiai aranyérmük elnyerésének időrendjébe az alábbi kalapácsvetőket!;Zsivótzky Gyula;Kiss Balázs;Németh Imre;Csermák József;CDAB;SPORT
+Tegyék időrendbe a felsorolt angol hadvezéreket!;Sir Francis Drake;Nelson admirális;Montgomery tábornagy;Oliver Cromwell;ADBC;TÖRTÉNELEM
+Tegyék a bennük szereplő hangszerek számának növekvő sorrendjébe az alábbi zenei együtteseket!;kvartett;oktett;vonóstrió;fúvósötös;CADB;OPERA
+Állítsák a filmrendezőket születésük időrendjébe!;Szabó István;Luc Besson;Ingmar Bergman;Jancsó Miklós;CDAB;FILM
+Tegyék sorrendbe a periódusos rendszer elemeit! Kezdjék a legkisebb rendszámúval!;oxigén;hidrogén;réz;urán;BACD;TUDOMÁNY
+Tegyék az országokat az I. világháborúba való belépésük sorrendjébe!;Amerikai Egyesült Államok;Osztrák-Magyar Monarchia;Olaszország;Törökország;BDCA;TÖRTÉNELEM
+Állítsák megfelelő sorrendbe a Petőfi-műből idézett versrészleteket!;Előre;Trombita harsog;Kész a csatára a sereg;Dob pereg;BDCA;IRODALOM
+Állítsák a cannes-i fesztivál fődíjas filmjeit díjazásuk időrendjébe!;Ponyvaregény;Szállnak a darvak;Apokalipszis most;Nagyítás;BDCA;FILM
+Állítsák állandó tagjaik száma szerinti növekvő sorrendbe az alábbi együtteseket!;Republic;Tankcsapda;TNT;Bergendy Szalonzenekar;CBAD;ZENE
+Állítsák a Duna folyásírányának megfelelő sorrendbe a felsorolt fővárosokat!;Budapest;Bécs;Pozsony;Belgrád;BCAD;FÖLDRAJZ
+Állítsák uralkodásuk sorrendjébe az alábbi Árpád-házi királyokat!;I. István;IV. (Kun) László;I. László;III. Béla;ACDB;TÖRTÉNELEM
+Állítsák irőrendbe a magyar labdarúgás legendás gólkirályait!;Zsengellér Gyula;Dunai II Antal;Schlosser Imre;Kocsis Sándor;CADB;SPORT
+Tegyék sorrendbe az alábbi szigeteket az Egyenlítőtől való távolságuk szerint! Kezdjék a legközelebbivel!;Izland;Ciprus;Szardínia;Sri Lanka;DBCA;FÖLDRAJZ
+Tegyék születésük sorrendjébe a következő neves csillagászokat!;Halley;Ptolemaiosz;Kepler;Kopernikusz;BDCA;TUDOMÁNY
+Állítsák sorba az európai kikötővárosokat keletről nyugat felé haladva!;Gdansk;Rotterdam;Koppenhága;Le Havre;ACBD;FÖLDRAJZ
+Tegyék sorba a városokat aszerint, hányas autópálya közelében fekszenek! Kezdjék az M1-es mellettivel!;Hatvan;Győr;Kecskemét;Székesfehérvár;BACD;MAGYARORSZÁG
+Tegyék sorba a jelenleg vert magyar pénzérméket átmérőjük szerint! Kezdjék a legnagyobbal!;ötforintos;százforintos;húszforintos;kétforintos;CBAD;ÁLTALÁNOS
+Állítsák díjazásuk időrendjébe a cannes-i filmfesztivál Arany Pálmás filmjeit!;Taxisofőr;M.A.S.H.;Egy férfi és egy nő;Az édes élet;DCBA;FILM
+Állítsák sorba az országokat erdős területeik nagysága szerint! Kezdjék a legkevesebbel!;Oroszország;Ausztrália;USA;Magyarország;DBCA;ORSZÁGOK
+Állítsák maximális testhosszuk emelkedő sorrendjébe az alábbi kígyókat!;nagy anakonda;közönséges boa;homoki vipera;pápaszemes kobra;CDBA;BIOLÓGIA
+Állítsák alapításuk időrendjébe az alábbi magyar templomokat!;az esztergomi bazilika;a pannonhalmi apátság;a jáki templom;az egri minorita templom;BCDA;ÉPÍTÉSZET
+Állítsák az Al Pacino szereplésével forgatott filmeket készítésük időrendjébe!;Dick Tracy;Keresztapa;Serpico;Egy asszony illata;BCAD;FILM
+Tegyék sorrendbe az alábbi fémeket olvadáspontjuk alapján! Kezdjék a legalacsonyabbal!;alumínium;ón;ezüst;vas;BACD;TUDOMÁNY
+Tegyék sorrendbe az országokat a római katolikus vallást gyakorlók aránya szerint! Kezdjék a legtöbbel!;Lengyelország;Vatikán;Japán;Hollandia;BADC;VALLÁS
+Tegyék időrendbe az Egyesült Államok alábbi elnökeit!;Abraham Lincoln;Bill Clinton;Woodrow Wilson;John F. Kennedy;ACDB;TÖRTÉNELEM
+Tegyék magasság szerinti növekvő sorrendbe az alábbi szolmizációs hangokat!;fa;re;ti;la;BADC;OPERA
+Állítsák irőrendbe a francia forradalom eseményeit!;XVI. Lajos szökése;a Bastille elfoglalása;Robespierre kivégzése;Danton kivégzése;BADC;TÖRTÉNELEM
+Tegyék emelkedő sorrendbe a gázokat aszerint, hogy hány százalékban alkotóelemei a levegőnek!;argon;oxigén;nitrogén;kripton;DABC;TUDOMÁNY
+Állítsák növekvő sorrendbe a szigeteket területük nagysága szerint!;Bali;Madagaszkár;Tajvan;Grönland;ACBD;FÖLDRAJZ
+Tegyék időrendbe az 1980-as évek eseményeit!;Farkas Bertalan az űrben;Los Angeles-i olimpia;a KISZ megszűnése;mexikói foci-vb;ABDC;ÁLTALÁNOS
+Állítsák a szélességi köröket a Déli-sarkkörtől való távolságuk növekvő sorrendjébe!;Baktérítő;Ráktérítő;Egyenlítő;Északi-sarkkör;ACBD;TUDOMÁNY
+Tegyék bemutatásuk időrendjébe a felsorolt zenés színpadi műveket!;My Fair Lady;A víg özvegy;Macskák;A denevér;DBAC;SZÍNHÁZ
+Tegyék Forma 1-es világbajnoki győzelemeinek száma szerinti növekvő sorrendbe az autóversenyzőket!;Jacques Villeneuve;Michael Schumacher;Ayrton Senna;Mika Hakkinen;ADCB;SPORT
+Állítsák csökkenő sorrendbe az égitesteket átmérőjük hossza szerint!;Hold;Nap;Föld;Mars;BCDA;TUDOMÁNY
+Állítsák születésük időrendjébe a híres hadvezéreket!;Miltiadész;Periklész;Julius Caesar;Hannibál;ABDC;TÖRTÉNELEM
+Tegyék erősségük szerint sorba az ulti bemondásait! Kezdjék a leggyengébbel!;ulti;piros ulti;piros terített durchmars;piros 40-100 ulti;ABDC;JÁTÉK
+Állítsák Nobel-díjasaik számának növekvő sorrendjébe az alábbi országokat!;Svédország;Kína;Amerikai Egyesült Államok;Nagy-Britannia;BADC;TUDOMÁNY
+Állítsák területük nagysága szerinti növekvő sorrendbe az alábbi dél-amerikai országokat!;Suriname;Argentína;Kolumbia;Brazília;ACBD;ORSZÁGOK
+Állítsák a Forma 1-es versenyzőket 2001-es összetett helyezésük sorrendjébe! Kezdjék az elsővel!;Michael Schumacher;Ralf Schumacher;David Coulthard;Mika Hakkinen;ACBD;SPORT
+Tegyék olvadáspontjuk szerint növekvő sorrendbe a felsorolt kémiai elemeket!;ólom;nátrium;vas;alumínium;BADC;TUDOMÁNY
+Állítsák nyugat-keleti sorrendbe a transzszibériai vasút állomásait!;Vlagyivosztok;Irkutszk;Omszk;Moszkva;DCBA;FÖLDRAJZ
