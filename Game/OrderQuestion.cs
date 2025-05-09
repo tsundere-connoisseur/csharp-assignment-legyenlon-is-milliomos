@@ -10,6 +10,10 @@ public readonly struct OrderQuestion
         internal fixed char Order[ItemCount];
 
         [PublicAPI]
+        public static CharacterOrder Sequence(ReadOnlySpan<char> sequence) =>
+            Sequence(sequence[0], sequence[1], sequence[2], sequence[3]);
+
+        [PublicAPI]
         public static CharacterOrder Sequence([ValueRange('A', 'D')] char a, [ValueRange('A', 'D')] char b,
                                               [ValueRange('A', 'D')] char c, [ValueRange('A', 'D')] char d)
         {
@@ -60,7 +64,7 @@ public readonly struct OrderQuestion
 
     [PublicAPI]
     public static OrderQuestion Parse(in string line, char delimiter = ';') => new(in line, delimiter);
-    
+
     [PublicAPI]
     public bool Guess(CharacterOrder order) => order == Order;
 

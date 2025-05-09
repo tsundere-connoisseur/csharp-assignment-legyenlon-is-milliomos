@@ -10,9 +10,9 @@ public sealed class QuestionDB
     private readonly SortedDictionary<long, List<Question>> questionsOrderedByDifficulty = [];
 
     [PublicAPI]
-    public bool TryGetRandomQuestion(long difficulty, [NotNullWhen(true)] out Question? question)
+    public bool TryGetRandomQuestion(long difficulty, out Question question)
     {
-        question = null;
+        question = default;
         if (!questionsOrderedByDifficulty.TryGetValue(difficulty, out var questions)) return false;
 
         question = questions[Random.Shared.Next(0, questions.Count)];
@@ -20,9 +20,9 @@ public sealed class QuestionDB
     }
 
     [PublicAPI]
-    public bool TryGetRandomOrderQuestion(out OrderQuestion? orderQuestion)
+    public bool TryGetRandomOrderQuestion(out OrderQuestion orderQuestion)
     {
-        orderQuestion = null;
+        orderQuestion = default;
         if (orderQuestions.Count == 0) return false;
         orderQuestion = orderQuestions[Random.Shared.Next(0, orderQuestions.Count)];
         return true;

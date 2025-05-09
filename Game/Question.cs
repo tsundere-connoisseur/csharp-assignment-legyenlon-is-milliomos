@@ -23,7 +23,7 @@ public readonly struct Question
     /// <param name="guess">value in the A..=D range</param>
     /// </summary>
     [PublicAPI]
-    public bool Guess([ValueRange('A', 'D')] char guess) => guess == CorrectAnswer;
+    public bool Guess([ValueRange('A', 'A' + QuestionCount)] char guess) => guess == CorrectAnswer;
 
     private Question(in string repr, char delimiter = ';')
     {
