@@ -54,6 +54,11 @@ public readonly struct OrderQuestion
         {
             return !(left == right);
         }
+
+        public override string ToString()
+        {
+            fixed (char* ptr = Order) return new string(ptr, 0, ItemCount);
+        }
     }
 
     [PublicAPI] public const    byte           ItemCount = 4;
