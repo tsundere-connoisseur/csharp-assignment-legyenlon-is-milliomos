@@ -1,6 +1,6 @@
 using System.Diagnostics;
-using System.Runtime.CompilerServices;
 using JetBrains.Annotations;
+using LOIM.Game.Helpers;
 
 namespace LOIM.Game;
 
@@ -17,8 +17,18 @@ public class Game(QuestionDB questionDB)
     {
         if (string.IsNullOrWhiteSpace(name)) throw new ArgumentException("invalid player name", nameof(name));
         if (gameState.ongoing) throw new InvalidOperationException("game has already started");
+        if (gameState.helpers.Count == State.MaxHelperCount)
+            throw new InvalidOperationException("max amount of helpers reached");
 
         gameState.players.Add(new Player(name));
+    }
+
+    public Game AddHelp(IHelper helper)
+    {
+        ArgumentNullException.ThrowIfNull(helper);
+        if (gameState.ongoing) throw new InvalidOperationException("game has already started");
+        gameState.helpers.Add(helper);
+        return this;
     }
 
     public void Start()
@@ -44,14 +54,19 @@ public class Game(QuestionDB questionDB)
 
     private void Ask(Question question)
     {
+        display_question:
         Console.WriteLine(question.Category);
         Console.WriteLine(question.QuestionText);
-        for (var letter = 'A'; letter < question.Answers.Length; letter++)
-            Console.WriteLine($"{letter}: {question.Answers[letter - 'A']}");
+        for (var i = 0; i < question.Answers.Length; i++)
+            Console.WriteLine($"{(char)('A' + i)}: {question.Answers[i]}");
 
 #if DEBUG
         Console.WriteLine(question.CorrectAnswer);
 #endif // DEBUG
+
+        Console.WriteLine("available helps");
+        for (byte i = 0; i < gameState.helpers.Count; i++)
+            Console.WriteLine($"[{i}]: {gameState.helpers[i].Name}");
 
         Console.WriteLine($"{gameState.selectedPlayer.Name}'s answer (Q to stop): ");
 
@@ -60,6 +75,25 @@ public class Game(QuestionDB questionDB)
         while (true)
         {
             choice = Console.ReadKey(true).KeyChar;
+
+            if (char.IsAsciiDigit(choice))
+            {
+                var value = choice - '0';
+                if (value < gameState.helpers.Count)
+                {
+                    var helper = gameState.helpers[value];
+                    Console.WriteLine($"using {helper.Name}");
+
+                    gameState.helpers.Remove(helper);
+                    question = helper.Help(gameState, question);
+                    goto display_question;
+                }
+
+                Console.WriteLine("helper does not exist");
+
+                continue;
+            }
+
             if (!char.IsBetween(choice, 'A', (char)('A' + question.Answers.Length - 1)) && choice != 'Q')
             {
                 Console.WriteLine($"Answer must be between 'A' and '{(char)('A' + question.Answers.Length - 1)}'");
@@ -100,6 +134,8 @@ public class Game(QuestionDB questionDB)
     {
         Console.WriteLine("quited");
         gameState.ongoing = false;
+        // edge case, quiting in the first round
+        if (gameState.wonAmount == BaseReward) gameState.wonAmount = 0;
     }
 
     private void GameOver()
@@ -151,13 +187,15 @@ public class Game(QuestionDB questionDB)
         Console.WriteLine($"{gameState.selectedPlayer.Name} was the fastest");
     }
 
-    private class State
+    public class State
     {
-        public readonly List<Player> players      = [];
-        public          byte         currentRound = 1;
-        public          bool         ongoing;
-        public          Player       selectedPlayer;
-        public          ulong        wonAmount = BaseReward;
-        public          ulong        guearanteedReward;
+        public const    byte          MaxHelperCount = 10; // only able to read 1 char -> 0-9
+        public readonly List<Player>  players        = [];
+        public readonly List<IHelper> helpers        = [];
+        public          byte          currentRound   = 1;
+        public          bool          ongoing;
+        public          Player        selectedPlayer;
+        public          ulong         wonAmount = BaseReward;
+        public          ulong         guearanteedReward;
     }
 }

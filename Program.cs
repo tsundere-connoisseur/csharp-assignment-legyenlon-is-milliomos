@@ -1,5 +1,6 @@
 ﻿using System.Globalization;
 using LOIM.Game;
+using LOIM.Game.Helpers;
 
 namespace LOIM;
 
@@ -12,9 +13,10 @@ internal static class Program
 
         var game = new Game.Game(await QuestionDB.LoadAsync(new(Path.Combine("..", "..", "..", "Data", "kerdes.txt")),
                                                             new(Path.Combine("..", "..", "..", "Data",
-                                                                             "sorkerdes.txt"))));
+                                                                             "sorkerdes.txt"))))
+           .AddHelp(new HalveIncorrect());
 
-        long       playerCount = 0;
+        long playerCount = 0;
         while (true)
         {
             Console.Write($"Name for player {playerCount + 1} (press enter to begin the game): ");
@@ -29,7 +31,7 @@ internal static class Program
             await Console.Error.WriteLineAsync("insufficient number of players");
             return;
         }
-        
+
         game.Start();
     }
 }
