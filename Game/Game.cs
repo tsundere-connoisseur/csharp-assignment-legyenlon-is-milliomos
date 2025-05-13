@@ -31,28 +31,28 @@ public class Game(QuestionDB questionDB)
         return this;
     }
 
-    public void Start()
+    public async Task Run()
     {
         gameState.ongoing = true;
         if (!questionDB.TryGetRandomOrderQuestion(out var question))
             throw new ApplicationException("order no questions loaded");
         Ask(question);
 
-        while (gameState.ongoing) Round();
+        while (gameState.ongoing) await Round();
         GameOver();
     }
 
-    private void Round()
+    private async Task Round()
     {
         Console.WriteLine($"Round {gameState.currentRound}");
 
         if (!questionDB.TryGetRandomQuestion(gameState.currentRound, out var question))
             throw new ApplicationException($"no question found for difficulty {gameState.currentRound}");
 
-        Ask(question);
+        await Ask(question);
     }
 
-    private void Ask(Question question)
+    private async Task Ask(Question question)
     {
         display_question:
         Console.WriteLine(question.Category);
@@ -85,7 +85,7 @@ public class Game(QuestionDB questionDB)
                     Console.WriteLine($"using {helper.Name}");
 
                     gameState.helpers.Remove(helper);
-                    question = helper.Help(gameState, question);
+                    question = await helper.Help(gameState, question);
                     goto display_question;
                 }
 

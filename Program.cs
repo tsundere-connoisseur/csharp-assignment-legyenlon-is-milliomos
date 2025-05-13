@@ -15,7 +15,9 @@ internal static class Program
                                                             new(Path.Combine("..", "..", "..", "Data",
                                                                              "sorkerdes.txt"))))
                   .AddHelp(new HalveIncorrect())
-                  .AddHelp(new Audience());
+                  .AddHelp(new Audience())
+                  .AddHelp(new Phone())
+                  .AddHelp(new Host());
 
         long playerCount = 0;
         while (true)
@@ -33,6 +35,6 @@ internal static class Program
             return;
         }
 
-        game.Start();
+        await game.Run();
     }
 }
