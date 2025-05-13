@@ -14,7 +14,8 @@ internal static class Program
         var game = new Game.Game(await QuestionDB.LoadAsync(new(Path.Combine("..", "..", "..", "Data", "kerdes.txt")),
                                                             new(Path.Combine("..", "..", "..", "Data",
                                                                              "sorkerdes.txt"))))
-           .AddHelp(new HalveIncorrect());
+                  .AddHelp(new HalveIncorrect())
+                  .AddHelp(new Audience());
 
         long playerCount = 0;
         while (true)
