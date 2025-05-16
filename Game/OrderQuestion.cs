@@ -1,9 +1,10 @@
 using JetBrains.Annotations;
+using LOIM.Game.Display;
 using LOIM.Util;
 
 namespace LOIM.Game;
 
-public readonly struct OrderQuestion
+public readonly struct OrderQuestion : IQuestion
 {
     public unsafe struct CharacterOrder : IEquatable<CharacterOrder>
     {
@@ -96,5 +97,21 @@ public readonly struct OrderQuestion
 
         segments.EnsureNext();
         Category = src[segments.Current].ToString();
+    }
+
+    public void Display(IGameDisplay display)
+    {
+        display.DisplayLine(Category);
+        display.DisplayLine(Task);
+        display.DisplayGrid(2, 2, Items);
+    }
+
+    public bool CheckAnswer(ReadOnlySpan<char> answer) => Order == CharacterOrder.Sequence(answer);
+
+    public string? ValidateAnswer(ReadOnlySpan<char> answer)
+    {
+        return !answer.ValidateAnswer(ItemCount)
+            ? $"answer must be {ItemCount} characters long and must only contain characters between 'A' and {(char)('A' + ItemCount - 1)}"
+            : null;
     }
 }

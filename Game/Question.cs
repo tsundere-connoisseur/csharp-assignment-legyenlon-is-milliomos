@@ -1,10 +1,11 @@
 using System.Linq.Expressions;
 using JetBrains.Annotations;
+using LOIM.Game.Display;
 using LOIM.Util;
 
 namespace LOIM.Game;
 
-public readonly struct Question
+public readonly struct Question : IQuestion
 {
     [PublicAPI] public const    byte     MaxLevel      = 15;
     [PublicAPI] public const    byte     MinLevel      = 1;
@@ -58,5 +59,21 @@ public readonly struct Question
         var validator = validate.Compile();
         if (!validator(res)) throw new FormatException($"Validation failed for value {res} ({validate.Body})");
         dest = res;
+    }
+
+    public void Display(IGameDisplay display)
+    {
+        display.DisplayLine(Category);
+        display.DisplayLine(QuestionText);
+        display.DisplayGrid(2, 2, Answers);
+    }
+
+    public bool CheckAnswer(ReadOnlySpan<char> answer) => answer[0] == CorrectAnswer;
+
+    public string? ValidateAnswer(ReadOnlySpan<char> answer)
+    {
+        return !answer.ValidateAnswer(1)
+            ? $"answer must be {1} characters long and must only contain characters between 'A' and {(char)('A' + Answers.Length - 1)}"
+            : null;
     }
 }
