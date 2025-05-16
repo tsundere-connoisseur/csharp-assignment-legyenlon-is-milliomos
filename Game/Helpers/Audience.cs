@@ -13,9 +13,9 @@ public class Audience : IHelper
 
         for (var i = 0; i < chocies.Length; i++)
         {
-            var v = Random.Shared.NextSingle();
+            var v = gameState.random.NextSingle();
             acc                                            += v;
-            chocies[Random.Shared.Next(0, chocies.Length)] += v;
+            chocies[gameState.random.Next(0, chocies.Length)] += v;
             
             if (i % chocies.Length != 0) continue;
             chocies[question.CorrectAnswer - 'A']++;
@@ -27,7 +27,7 @@ public class Audience : IHelper
             question.Answers[idx] = str;
         }
 
-        await Task.Delay(TimeSpan.FromSeconds(Random.Shared.Next(3, 7)));
+        await Task.Delay(TimeSpan.FromSeconds(gameState.random.Next(3, 7)));
 
         return question;
     }

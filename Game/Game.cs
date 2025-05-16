@@ -1,5 +1,6 @@
 using System.Diagnostics;
 using JetBrains.Annotations;
+using LOIM.Game.Display;
 using LOIM.Game.Helpers;
 
 namespace LOIM.Game;
@@ -31,14 +32,29 @@ public class Game(QuestionDB questionDB)
         return this;
     }
 
+    public Game WithDisplay(IGameDisplay display)
+    {
+        gameState.display = display;
+        return this;
+    }
+
     public async Task Run()
     {
+        // gameState.ongoing = true;
+        // if (!questionDB.TryGetRandomOrderQuestion(out var question))
+        //     throw new ApplicationException("order no questions loaded");
+        // Ask(question);
+        //
+        // while (gameState.ongoing) await Round();
+        // GameOver();
         gameState.ongoing = true;
-        if (!questionDB.TryGetRandomOrderQuestion(out var question))
-            throw new ApplicationException("order no questions loaded");
-        Ask(question);
-
-        while (gameState.ongoing) await Round();
+        while (gameState.ongoing)
+        {
+            if (!gameState.display.IsActive) throw new InvalidOperationException("display is in invalid state");
+            gameState.display.MainLoopFrameStart();
+            if (!gameState.display.IsActive) throw new InvalidOperationException("display is in invalid state");
+            gameState.display.MainLoopFrameEnd();
+        }
         GameOver();
     }
 
@@ -190,9 +206,11 @@ public class Game(QuestionDB questionDB)
     public class State
     {
         public const    byte          MaxHelperCount = 10; // only able to read 1 char -> 0-9
-        public readonly List<Player>  players        = [];
-        public readonly List<IHelper> helpers        = [];
-        public          byte          currentRound   = 1;
+        public readonly Random        random         = new(DateTime.Now.Nanosecond);
+        public          IGameDisplay  display;
+        public readonly List<Player>  players      = [];
+        public readonly List<IHelper> helpers      = [];
+        public          byte          currentRound = 1;
         public          bool          ongoing;
         public          Player        selectedPlayer;
         public          ulong         wonAmount = BaseReward;
