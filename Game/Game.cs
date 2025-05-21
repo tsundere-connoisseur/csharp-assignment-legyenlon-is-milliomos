@@ -48,13 +48,127 @@ public class Game(QuestionDB questionDB)
         // while (gameState.ongoing) await Round();
         // GameOver();
         gameState.ongoing = true;
+
+        if (!questionDB.TryGetRandomOrderQuestion(out var orderQuestion))
+            throw new ApplicationException("order no questions loaded");
+
+        gameState.currentQuestion = orderQuestion;
+        var answer = string.Empty;
+        var reason = EndReason.Quit;
+        var errors = new List<string>();
+
+        var playerTimes = new SortedList<long, Player>();
+        var playerIdx   = 0;
+
+        // FIXME: cannpt start task
+        async Task AddError(string error, TimeSpan forAmount)
+        {
+            errors.Add(error);
+            await Task.Delay(forAmount);
+            errors.Remove(error);
+        }
+
+        var sw = Stopwatch.StartNew();
+
         while (gameState.ongoing)
         {
-            if (!gameState.display.IsActive) throw new InvalidOperationException("display is in invalid state");
+            if (!gameState.display.IsActive) break;
             gameState.display.MainLoopFrameStart();
-            if (!gameState.display.IsActive) throw new InvalidOperationException("display is in invalid state");
+            if (!gameState.display.IsActive) break;
+
+            if (playerIdx < gameState.players.Count)
+            {
+                orderQuestion.Display(gameState.display);
+#if DEBUG
+                gameState.display.DisplayLine("DEBUG!");
+                gameState.display.DisplayLine(orderQuestion.Order.ToString());
+#endif
+                if (gameState.display.Prompt($"{gameState.players[playerIdx].Name}> ", ref answer))
+                {
+                    if (gameState.currentQuestion.ValidateAnswer(answer) is { } err)
+                    {
+                        AddError(err, TimeSpan.FromSeconds(3)).Start();
+                    }
+                    else if (gameState.currentQuestion.CheckAnswer(answer))
+                    {
+                        playerTimes.Add(sw.Elapsed.Ticks, gameState.players[playerIdx]);
+                        playerIdx++;
+                        if (playerIdx == gameState.players.Count)
+                        {
+                            gameState.selectedPlayer = playerTimes.GetValueAtIndex(0);
+                            if (!questionDB.TryGetRandomQuestion(gameState.currentRound, out var firstQuestion))
+                                throw new ApplicationException("no questions found");
+
+                            gameState.currentQuestion = firstQuestion;
+                        }
+                    }
+                    
+                    answer = string.Empty;
+                }
+
+                gameState.display.MainLoopFrameEnd();
+                continue;
+            }
+
+            gameState.currentQuestion.Display(gameState.display);
+            
+            #if DEBUG
+            gameState.display.DisplayLine("DEBUG!");
+            gameState.display.DisplayLine($"{((Question)gameState.currentQuestion).CorrectAnswer}");
+            #endif
+
+            if (gameState.currentQuestion is Question currentQuestion)
+            {
+                gameState.display.DisplayLine("available helps");
+                // FIXME: incorrect display values
+                gameState.display.DisplayGrid(1, (ulong)gameState.helpers.Count, false,
+                                              [..gameState.helpers.Select(it => it.Name)]);
+            }
+
+            if (gameState.display.Prompt($"{gameState.selectedPlayer.Name}> ", ref answer))
+            {
+                if (answer == "q")
+                {
+                    break;
+                }
+                else if (int.TryParse(answer, out var helpIdx))
+                {
+                    if (gameState.currentQuestion is not Question question) continue;
+                    if (helpIdx < 0) AddError("help index must be greater than zero", TimeSpan.FromSeconds(3)).Start();
+                    else if (helpIdx >= gameState.helpers.Count)
+                        AddError("help index is out of range", TimeSpan.FromSeconds(3)).Start();
+                    else
+                    {
+                        gameState.currentQuestion = await gameState.helpers[helpIdx].Help(gameState, question);
+                        gameState.helpers.RemoveAt(helpIdx);
+                    }
+                }
+                else if (gameState.currentQuestion.ValidateAnswer(answer) is { } err)
+                {
+                    AddError(err, TimeSpan.FromSeconds(3)).Start();
+                }
+                else if (gameState.currentQuestion.CheckAnswer(answer))
+                {
+                    if (!questionDB.TryGetRandomQuestion(++gameState.currentRound, out var question))
+                    {
+                        reason = EndReason.Won;
+                        break;
+                    }
+
+                    gameState.currentQuestion = question;
+                }
+                else
+                {
+                    reason = EndReason.Lost;
+                    break;
+                }
+                
+                answer =  string.Empty;
+            }
+
             gameState.display.MainLoopFrameEnd();
         }
+
         GameOver();
     }
 
@@ -208,8 +322,9 @@ public class Game(QuestionDB questionDB)
         public const    byte          MaxHelperCount = 10; // only able to read 1 char -> 0-9
         public readonly Random        random         = new(DateTime.Now.Nanosecond);
         public          IGameDisplay  display;
-        public readonly List<Player>  players      = [];
-        public readonly List<IHelper> helpers      = [];
+        public readonly List<Player>  players = [];
+        public readonly List<IHelper> helpers = [];
+        public          IQuestion     currentQuestion;
         public          byte          currentRound = 1;
         public          bool          ongoing;
         public          Player        selectedPlayer;

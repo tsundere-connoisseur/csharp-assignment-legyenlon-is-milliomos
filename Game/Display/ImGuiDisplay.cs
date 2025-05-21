@@ -1,3 +1,5 @@
+using System.Numerics;
+using ImGuiNET;
 using LOIM.Game.Controllers;
 using Veldrid;
 using Veldrid.Sdl2;
@@ -32,22 +34,46 @@ public class ImGuiDisplay : IGameDisplay
 
     public void DisplayLine(string line)
     {
-        throw new NotImplementedException();
+        ImGui.Text(line);
     }
 
-    public void DisplayGrid(ulong rows, ulong columns, params string[] gridItems)
+    public void DisplayGrid(ulong rows, ulong columns, bool appendLetters = true, params string[] gridItems)
     {
-        throw new NotImplementedException();
+        if (!ImGui.BeginTable($"##grid{gridItems.GetHashCode()}", (int)columns, ImGuiTableFlags.SizingFixedFit)) return;
+
+        char letter = 'A';
+        
+        for (ulong row = 0; row < rows; row++)
+        {
+            ImGui.TableNextRow();
+            for (ulong column = 0; column < columns; column++)
+            {
+                ImGui.TableNextColumn();
+                var idx = column * rows + row;
+                if (idx >= (ulong)gridItems.LongLength) break;
+                if (appendLetters)
+                {
+                    ImGui.Text($"{letter}: ");
+                    ImGui.SameLine();
+                }
+                ImGui.Text(gridItems[idx]);
+                letter++;
+            }
+        }
+
+        ImGui.EndTable();
     }
 
-    public Task<string> Prompt(string promptText)
+    public bool Prompt(string promptText, ref string output)
     {
-        throw new NotImplementedException();
+        return ImGui.InputText(promptText, ref output, 255,
+                               ImGuiInputTextFlags.EnterReturnsTrue | ImGuiInputTextFlags.CharsUppercase |
+                               ImGuiInputTextFlags.CharsNoBlank);
     }
 
     public void DisplayMessage(string message, DisplayMessageType type)
     {
-        throw new NotImplementedException();
+        // throw new NotImplementedException();
     }
 
     public void MainLoopFrameStart()
@@ -55,10 +81,15 @@ public class ImGuiDisplay : IGameDisplay
         var input = window.PumpEvents();
         if (!window.Exists) return;
         renderer.Update(1f / 60f, input); // Compute actual value for deltaSeconds.
+        var open = true;
+        ImGui.SetNextWindowSize(ImGui.GetWindowViewport().Size);
+        ImGui.SetNextWindowPos(Vector2.Zero);
+        ImGui.Begin("game", ref open, ImGuiWindowFlags.NoDecoration | ImGuiWindowFlags.NoResize | ImGuiWindowFlags.NoMove);
     }
 
     public void MainLoopFrameEnd()
     {
+        ImGui.End();
         cl.Begin();
         cl.SetFramebuffer(gd.MainSwapchain.Framebuffer);
         cl.ClearColorTarget(0, RgbaFloat.Black);

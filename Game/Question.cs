@@ -65,7 +65,7 @@ public readonly struct Question : IQuestion
     {
         display.DisplayLine(Category);
         display.DisplayLine(QuestionText);
-        display.DisplayGrid(2, 2, Answers);
+        display.DisplayGrid(2, 2, true, Answers);
     }
 
     public bool CheckAnswer(ReadOnlySpan<char> answer) => answer[0] == CorrectAnswer;

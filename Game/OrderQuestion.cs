@@ -103,7 +103,7 @@ public readonly struct OrderQuestion : IQuestion
     {
         display.DisplayLine(Category);
         display.DisplayLine(Task);
-        display.DisplayGrid(2, 2, Items);
+        display.DisplayGrid(2, 2, true, Items);
     }
 
     public bool CheckAnswer(ReadOnlySpan<char> answer) => Order == CharacterOrder.Sequence(answer);
