@@ -4,7 +4,7 @@ public class HalveIncorrect : IHelper
 {
     public string Name => "Halve";
 
-    public Task<Question> Help(Game.State gameState, Question question)
+    public Question Help(Game.State gameState, Question question)
     {
         List<int> indices = [..Enumerable.Range(0, question.Answers.Length)];
         indices.Remove(question.CorrectAnswer - 'A');
@@ -17,6 +17,6 @@ public class HalveIncorrect : IHelper
             indices.RemoveAt(randomIndex);
         }
 
-        return Task.FromResult(question);
+        return question;
     }
 }

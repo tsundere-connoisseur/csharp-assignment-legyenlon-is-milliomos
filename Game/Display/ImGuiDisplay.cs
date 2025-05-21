@@ -39,9 +39,9 @@ public class ImGuiDisplay : IGameDisplay
 
     public void DisplayGrid(ulong rows, ulong columns, bool appendLetters = true, params string[] gridItems)
     {
-        if (!ImGui.BeginTable($"##grid{gridItems.GetHashCode()}", (int)columns, ImGuiTableFlags.SizingFixedFit)) return;
+        if (!ImGui.BeginTable($"##grid{gridItems.GetHashCode()}", (int)columns, ImGuiTableFlags.SizingStretchSame)) return;
 
-        char letter = 'A';
+        var letter = 'A';
         
         for (ulong row = 0; row < rows; row++)
         {
@@ -73,7 +73,13 @@ public class ImGuiDisplay : IGameDisplay
 
     public void DisplayMessage(string message, DisplayMessageType type)
     {
-        // throw new NotImplementedException();
+        ImGui.TextColored(type switch
+                          {
+                              DisplayMessageType.Error => new Vector4(1f, 0f, 0f, 1f),
+                              _ => new Vector4(1f, 1f, 1f, 1f)
+                          }, $"{type}: ");
+        ImGui.SameLine();
+        ImGui.Text(message);
     }
 
     public void MainLoopFrameStart()

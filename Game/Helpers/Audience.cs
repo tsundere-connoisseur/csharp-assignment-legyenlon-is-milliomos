@@ -6,7 +6,7 @@ public class Audience : IHelper
 {
     public string Name => "Audience";
     
-    public async Task<Question> Help(Game.State gameState, Question question)
+    public Question Help(Game.State gameState, Question question)
     {
         var chocies = new float[question.Answers.Length];
         var acc     = 0f;
@@ -26,8 +26,6 @@ public class Audience : IHelper
         {
             question.Answers[idx] = str;
         }
-
-        await Task.Delay(TimeSpan.FromSeconds(gameState.random.Next(3, 7)));
 
         return question;
     }

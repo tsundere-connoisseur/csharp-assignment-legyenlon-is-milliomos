@@ -49,6 +49,6 @@ internal static class Program
             return;
         }
 
-        await game.Run();
+        game.Run();
     }
 }
