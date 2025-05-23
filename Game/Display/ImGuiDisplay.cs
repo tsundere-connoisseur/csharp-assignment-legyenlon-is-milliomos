@@ -34,7 +34,7 @@ public class ImGuiDisplay : IGameDisplay
 
     public void DisplayLine(string line)
     {
-        ImGui.Text(line);
+        ImGui.TextUnformatted(line);
     }
 
     public void DisplayGrid(ulong rows, ulong columns, bool appendLetters = true, params string[] gridItems)
@@ -53,10 +53,10 @@ public class ImGuiDisplay : IGameDisplay
                 if (idx >= (ulong)gridItems.LongLength) break;
                 if (appendLetters)
                 {
-                    ImGui.Text($"{letter}: ");
+                    ImGui.TextUnformatted($"{letter}: ");
                     ImGui.SameLine();
                 }
-                ImGui.Text(gridItems[idx]);
+                ImGui.TextUnformatted(gridItems[idx]);
                 letter++;
             }
         }
@@ -79,7 +79,7 @@ public class ImGuiDisplay : IGameDisplay
                               _ => new Vector4(1f, 1f, 1f, 1f)
                           }, $"{type}: ");
         ImGui.SameLine();
-        ImGui.Text(message);
+        ImGui.TextUnformatted(message);
     }
 
     public void MainLoopFrameStart()
